@@ -10,19 +10,28 @@
 
 -Limpieza-
 capa1.py -> A partir de maestro_equipos.csv obtenemos 2 csv:
+
   -> capa1_equipos.csv : contiene tuplas [url_equipo, nombre_equipo] sin repetición.
+  
   -> capa1_equipos_temporada: agrupados por temporada, todos los equipos que participaron en Primera Feb.
-                              Por fila -> [url_equipo, url_equipo_temporada, temporada, ano_inicio, nombre_equipo, id_liga]
+  
+  Por fila -> [url_equipo, url_equipo_temporada, temporada, ano_inicio, nombre_equipo, id_liga]
+
+  
 A partir de maestro_plantillas.csv obtenemos 2 csv:
+
   -> capa1_jugadores.csv: contiene tuplas [url_jugador, nombre_jugador] sin repetición.
+  
   -> capa1_plantillas.csv: agrupados por temporada y equipo, contiene para cada jugador [url_jugador, url_equipo, temporada, ano_inicio]
 
 Cada archivo corrige el orden, de modo que se ordenan por temporada y por orden alfabético. También corrige errores gramaticales y espacios en blanco innecesarios.
 Esta capa es importante para diferenciar Identidad (recursos únicos) de Contexto (acciones de ese contexto).
 
+
 -- DATOS --
 
 -Bruto-
+
 Obtenidos directamente de hacer scrapping. Están desordenados, porque a veces la página fallaba a la hora de coger ciertos datos y hubo que añadirlos después.
 
 datos/bruto/equipos/maestro_equipos.csv: URL base para cada tupla [temporada, equipo]
@@ -36,10 +45,17 @@ Equipo (Ej: Palencia_Baloncesto)
 
 Archivos CSV: Cada archivo corresponde a un jugador de esa plantilla y contiene sus estadísticas desglosadas partido a partido.                        
 
+
 -Procesados-
 
-Temporada (Ej: 2015-2016)
+Capa 1
 
-Equipo (Ej: Palencia_Baloncesto)
+Datos de las 2 primeras carpetas procesados para ser ordenados, tener un formato correcto y estar divididos en Identidad y Contexto.
 
-Archivos CSV: Cada archivo corresponde a un jugador de esa plantilla y contiene sus estadísticas desglosadas partido a partido.
+capa1_equipos.csv -> [url_equipo, nombre_equipo] sin repetir.
+
+capa1_equipos_temporada -> agrupados por temporada todos los equipos que han participado en primera feb.
+
+capa1_jugadores.csv -> [url_jugador, nombre_jugador] sin repetir.
+
+capa1_plantillas.csv -> agrupados por temporada y equipo, todos los jugadores de cada plantilla.
