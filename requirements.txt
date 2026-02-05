@@ -1,0 +1,17 @@
+# Extracción y Navegación
+selenium
+beautifulsoup4
+webdriver-manager
+
+# Procesamiento de Datos
+pandas
+numpy
+
+# Motores de Análisis (Parsers)
+lxml
+html5lib
+
+# Utilidades y Excel
+requests
+openpyxl
+unidecode
