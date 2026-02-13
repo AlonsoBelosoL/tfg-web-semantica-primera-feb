@@ -104,7 +104,7 @@ def procesar_capa_2_completa(): # Función que coordina toda la limpieza e integ
                     
                     jugador_es_visitante = '@' in datos_fila['PARTIDO'] # Miramos si el jugador jugaba fuera de casa
                     nombre_equipo_rival = datos_fila['PARTIDO'].replace('vs ', '').replace('@ ', '').strip() # Limpiamos el nombre del rival
-                    direccion_equipo_rival = encontrar_direccion_equipo(nombre_equipo_rival, nombre_temporada, lista_referencia_maestra, uri_a_excluir=direccion_equipo_carpeta) # Buscamos la dirección del rival
+                    direccion_equipo_rival = encontrar_direccion_equipo(nombre_equipo_rival, nombre_temporada, lista_referencia_maestra, direccion_excluir=direccion_equipo_carpeta) # Buscamos la dirección del rival
                     if direccion_equipo_rival == "equipo_desconocido": continue # Si el rival es desconocido, saltamos el partido
 
                     direccion_local = direccion_equipo_rival if jugador_es_visitante else direccion_equipo_carpeta # Definimos quién es el equipo local
@@ -126,6 +126,7 @@ def procesar_capa_2_completa(): # Función que coordina toda la limpieza e integ
                             
                             diccionario_partidos_unificados[identificador_unico_partido] = { # Guardamos los datos generales del partido
                                 'id_partido': identificador_unico_partido, 'fecha': fecha_estandar, 'temporada': nombre_temporada, 'ano_inicio': año_inicio_temporada,
+                                'jornada': int(indice_fila + 1), # <-- MODIFICACIÓN: Añadida jornada al archivo de partidos
                                 'uri_local': direccion_local, 'uri_visitante': direccion_visitante,
                                 'puntos_local': puntos_local, 'puntos_visitante': puntos_visitante
                             }
