@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block contenido %}
+<div class="row">
+    <div class="col-md-4">
+        <div class="card text-center p-4">
+            <img src="https://ui-avatars.com/api/?name={{ jugador.nombre }}&size=200&background=0984e3&color=fff" class="rounded-circle mx-auto mb-3" style="width: 150px;">
+            <h1 class="h3 fw-bold mb-0">{{ jugador.nombre }}</h1>
+            <p class="text-muted">Primera FEB</p>
+            <div class="d-grid gap-2 mt-3">
+                <a href="{{ jugador.url_pb }}" target="_blank" class="btn btn-outline-secondary btn-sm">Perfil Proballers</a>
+                {% if jugador.wikidata %}
+                <a href="{{ jugador.wikidata }}" target="_blank" class="btn btn-outline-danger btn-sm">Entidad Wikidata</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-8">
+        <div class="card p-4 h-100">
+            <h3 class="h5 mb-4 border-bottom pb-2">Análisis Avanzado (Capa 3)</h3>
+            <div class="row g-3">
+                <div class="col-6 col-md-3">
+                    <div class="stat-card border">
+                        <span class="stat-value">{{ jugador.ts or '-' }}%</span>
+                        <span class="stat-label">True Shooting</span>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="stat-card border">
+                        <span class="stat-value">{{ jugador.efg or '-' }}%</span>
+                        <span class="stat-label">eFG%</span>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="stat-card border">
+                        <span class="stat-value">{{ jugador.val_min or '-' }}</span>
+                        <span class="stat-label">Val/Min</span>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="stat-card border">
+                        <span class="stat-value">{{ jugador.ortg or '-' }}</span>
+                        <span class="stat-label">ORTG</span>
+                    </div>
+                </div>
+            </div>
+
+            <h3 class="h5 mt-5 mb-4 border-bottom pb-2">Últimos Partidos (Capa 2)</h3>
+            <table class="table table-sm">
+                <thead>
+                    <tr class="text-muted small">
+                        <th>FECHA</th>
+                        <th>PUNTOS</th>
+                        <th>VALORACIÓN</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for p in partidos %}
+                    <tr>
+                        <td>{{ p.fecha }}</td>
+                        <td class="fw-bold">{{ p.puntos }}</td>
+                        <td>{{ p.valoracion }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

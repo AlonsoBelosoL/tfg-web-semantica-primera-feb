@@ -1,0 +1,193 @@
+@prefix feb: <http://www.tfg-basket.es/ontologia/primera-feb#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.tfg-basket.es/ontologia/primera-feb#> a owl:Ontology ;
+    rdfs:label "Ontología de la Primera FEB - Mapeo Completo desde XML" .
+
+### --- CLASES (Classes) ---
+
+feb:League a owl:Class .
+feb:Season a owl:Class .
+feb:TeamSeason a owl:Class .
+feb:RosterItem a owl:Class .
+feb:MatchPerformance a owl:Class .
+feb:PlayerAnalysis a owl:Class .
+feb:TeamAnalysis a owl:Class .
+schema:Person a owl:Class .
+schema:SportsOrganization a owl:Class .
+schema:SportsEvent a owl:Class .
+
+### --- RELACIONES (Object Properties) ---
+
+feb:hasRosterItem a owl:ObjectProperty ;
+    rdfs:domain schema:Person ; rdfs:range feb:RosterItem .
+
+feb:rosterInTeam a owl:ObjectProperty ;
+    rdfs:domain feb:RosterItem ; rdfs:range feb:TeamSeason .
+
+feb:BelongsToClub a owl:ObjectProperty ;
+    rdfs:domain feb:TeamSeason ; rdfs:range schema:SportsOrganization .
+
+feb:inLeague a owl:ObjectProperty ;
+    rdfs:domain feb:TeamSeason ; rdfs:range feb:League .
+
+feb:duringSeason a owl:ObjectProperty ;
+    rdfs:domain [ owl:unionOf (feb:TeamSeason schema:SportsEvent) ] ;
+    rdfs:range feb:Season .
+
+feb:homeTeam a owl:ObjectProperty ;
+    rdfs:domain schema:SportsEvent ; rdfs:range feb:TeamSeason .
+
+feb:awayTeam a owl:ObjectProperty ;
+    rdfs:domain schema:SportsEvent ; rdfs:range feb:TeamSeason .
+
+feb:playedMatch a owl:ObjectProperty ;
+    rdfs:domain feb:MatchPerformance ; rdfs:range schema:SportsEvent .
+
+feb:performer a owl:ObjectProperty ;
+    rdfs:domain feb:MatchPerformance ; rdfs:range schema:Person .
+
+feb:representedTeam a owl:ObjectProperty ;
+    rdfs:domain feb:MatchPerformance ; rdfs:range feb:TeamSeason .
+
+feb:againstTeam a owl:ObjectProperty ;
+    rdfs:domain feb:MatchPerformance ; rdfs:range feb:TeamSeason .
+
+# He separado los dos "hasAnalysis" del XML para que no haya ambigüedad técnica
+feb:hasPlayerAnalysis a owl:ObjectProperty ;
+    rdfs:label "has analysis (player)" ;
+    rdfs:domain feb:RosterItem ; rdfs:range feb:PlayerAnalysis .
+
+feb:hasTeamAnalysis a owl:ObjectProperty ;
+    rdfs:label "has analysis (team)" ;
+    rdfs:domain feb:TeamSeason ; rdfs:range feb:TeamAnalysis .
+
+### --- ATRIBUTOS (Data Properties) ---
+
+## 1. Identidad y Datos Maestros
+feb:leagueId a owl:DatatypeProperty ; rdfs:domain feb:League ; rdfs:range xsd:string .
+feb:startYear a owl:DatatypeProperty ; rdfs:domain feb:Season ; rdfs:range xsd:integer .
+feb:teamName a owl:DatatypeProperty ; rdfs:domain feb:TeamSeason ; rdfs:range xsd:string .
+feb:uri_equipo_temporada a owl:DatatypeProperty ; rdfs:domain feb:TeamSeason ; rdfs:range xsd:anyURI .
+schema:name a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (schema:Person schema:SportsOrganization) ] ; rdfs:range xsd:string .
+schema:url a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (schema:Person schema:SportsOrganization) ] ; rdfs:range xsd:anyURI .
+
+## 2. Atributos de Partido (schema:SportsEvent)
+feb:matchId a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:string .
+feb:startDate a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:date .
+feb:matchday a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:homeScore a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:awayScore a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:homeCoverage a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:float .
+feb:awayCoverage a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:float .
+feb:homeRebounds a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:awayRebounds a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:homeAssists a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:awayAssists a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:homeSteals a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:awaySteals a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:homeTurnovers a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:awayTurnovers a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:homeEfficiency a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:awayEfficiency a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:integer .
+feb:homeThreePointPercentage a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:float .
+feb:awayThreePointPercentage a owl:DatatypeProperty ; rdfs:domain schema:SportsEvent ; rdfs:range xsd:float .
+
+## 3. Atributos de Actuación Individual (feb:MatchPerformance)
+feb:minutes a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:points a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:efficiencyValue a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:t2Made a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:t2Attempted a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:t3Made a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:t3Attempted a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:t1Made a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:t1Attempted a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:offRebounds a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:defRebounds a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:totalRebounds a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:assists a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:steals a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:blocks a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:turnovers a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:plusMinus a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:float .
+feb:foulsCommitted a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:foulsReceived a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:integer .
+feb:t2Percentage a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:float .
+feb:t3Percentage a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:float .
+feb:t1Percentage a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:float .
+feb:fgPercentage a owl:DatatypeProperty ; rdfs:domain feb:MatchPerformance ; rdfs:range xsd:float .
+
+## 4. Atributos de Análisis (Player & Team - Basado en UnionOf para optimizar)
+
+# Atributos compartidos
+feb:totalPoints a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgPoints a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:gamesPlayed a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:totalEfficiency a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgEfficiency a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:totalAssists a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgAssists a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:totalSteals a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgSteals a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:totalBlocks a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgBlocks a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:totalTurnovers a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgTurnovers a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:totalOffRebounds a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgOffRebounds a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:totalDefRebounds a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgDefRebounds a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:totalRebounds a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgTotalRebounds a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:totalFoulsCommitted a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgFoulsCommitted a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:totalFoulsReceived a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgFoulsReceived a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:totalPlusMinus a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgPlusMinus a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+
+# Tiros (Metidos, Intentados y Porcentajes)
+feb:totalT2Made a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:totalT2Attempted a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:totalT3Made a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:totalT3Attempted a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:totalT1Made a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:totalT1Attempted a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:totalFGMade a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:totalFGAttempted a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:integer .
+feb:avgT2Made a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:avgT2Attempted a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:avgT3Made a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:avgT3Attempted a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:avgT1Made a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:avgT1Attempted a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:avgFGMade a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:avgFGAttempted a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:t2Percentage a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:t3Percentage a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:t1Percentage a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:fgPercentage a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+
+# Analítica Avanzada
+feb:tsPercentage a owl:DatatypeProperty ; rdfs:domain [ owl:unionOf (feb:PlayerAnalysis feb:TeamAnalysis) ] ; rdfs:range xsd:float .
+feb:efgPercentage a owl:DatatypeProperty ; rdfs:domain feb:PlayerAnalysis ; rdfs:range xsd:float .
+feb:astToRatio a owl:DatatypeProperty ; rdfs:domain feb:PlayerAnalysis ; rdfs:range xsd:float .
+feb:valPerMinute a owl:DatatypeProperty ; rdfs:domain feb:PlayerAnalysis ; rdfs:range xsd:float .
+feb:finishedPossessions a owl:DatatypeProperty ; rdfs:domain feb:PlayerAnalysis ; rdfs:range xsd:float .
+feb:ortgIndividual a owl:DatatypeProperty ; rdfs:domain feb:PlayerAnalysis ; rdfs:range xsd:float .
+feb:totalMinutes a owl:DatatypeProperty ; rdfs:domain feb:PlayerAnalysis ; rdfs:range xsd:integer .
+feb:avgMinutes a owl:DatatypeProperty ; rdfs:domain feb:PlayerAnalysis ; rdfs:range xsd:float .
+feb:totalDoubleDoubles a owl:DatatypeProperty ; rdfs:domain feb:PlayerAnalysis ; rdfs:range xsd:integer .
+
+feb:totalWins a owl:DatatypeProperty ; rdfs:domain feb:TeamAnalysis ; rdfs:range xsd:integer .
+feb:winRate a owl:DatatypeProperty ; rdfs:domain feb:TeamAnalysis ; rdfs:range xsd:float .
+feb:astRatio a owl:DatatypeProperty ; rdfs:domain feb:TeamAnalysis ; rdfs:range xsd:float .
+feb:offRebRatio a owl:DatatypeProperty ; rdfs:domain feb:TeamAnalysis ; rdfs:range xsd:float .
+feb:totalPossessions a owl:DatatypeProperty ; rdfs:domain feb:TeamAnalysis ; rdfs:range xsd:float .
+feb:pace a owl:DatatypeProperty ; rdfs:domain feb:TeamAnalysis ; rdfs:range xsd:float .
+feb:ortgTeam a owl:DatatypeProperty ; rdfs:domain feb:TeamAnalysis ; rdfs:range xsd:float .

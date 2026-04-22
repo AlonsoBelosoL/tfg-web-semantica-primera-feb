@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block contenido %}
+<div class="row justify-content-center mt-5">
+    <div class="col-md-8 text-center">
+        <h1 class="display-4 fw-bold">Inteligencia Semántica aplicada al Baloncesto</h1>
+        <p class="lead text-muted mb-5">Analizando el rendimiento de la Primera FEB mediante grafos de conocimiento.</p>
+        <div class="card p-5 bg-white">
+            <h2 class="h4">Estado del Sistema</h2>
+            <p class="mb-4">El grafo maestro está cargado con más de 1.4 millones de tripletas.</p>
+            <div class="d-flex justify-content-center gap-4">
+                <div class="stat-card border w-50">
+                    <span class="stat-value">{{ cantidad }}</span>
+                    <span class="stat-label">Jugadores</span>
+                </div>
+            </div>
+            <a href="/jugadores" class="btn btn-primary btn-lg mt-5">Abrir Buscador</a>
+        </div>
+    </div>
+</div>
+{% endblock %}

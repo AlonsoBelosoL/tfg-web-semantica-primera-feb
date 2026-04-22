@@ -1,0 +1,2418 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<https://bball-intelligence.com/resource/person/11147> owl:sameAs <http://www.wikidata.org/entity/Q25509084> .
+
+<https://bball-intelligence.com/resource/person/11623> owl:sameAs <http://www.wikidata.org/entity/Q33106344> .
+
+<https://bball-intelligence.com/resource/person/11636> owl:sameAs <http://www.wikidata.org/entity/Q100880071> .
+
+<https://bball-intelligence.com/resource/person/11659> owl:sameAs <http://www.wikidata.org/entity/Q27916788> .
+
+<https://bball-intelligence.com/resource/person/12064> owl:sameAs <http://www.wikidata.org/entity/Q101771882> .
+
+<https://bball-intelligence.com/resource/person/12083> owl:sameAs <http://www.wikidata.org/entity/Q4723826> .
+
+<https://bball-intelligence.com/resource/person/12159> owl:sameAs <http://www.wikidata.org/entity/Q16209499> .
+
+<https://bball-intelligence.com/resource/person/12427> owl:sameAs <http://www.wikidata.org/entity/Q28662955> .
+
+<https://bball-intelligence.com/resource/person/12635> owl:sameAs <http://www.wikidata.org/entity/Q56737248> .
+
+<https://bball-intelligence.com/resource/person/12728> owl:sameAs <http://www.wikidata.org/entity/Q27244972> .
+
+<https://bball-intelligence.com/resource/person/12852> owl:sameAs <http://www.wikidata.org/entity/Q24954051> .
+
+<https://bball-intelligence.com/resource/person/12857> owl:sameAs <http://www.wikidata.org/entity/Q21480861> .
+
+<https://bball-intelligence.com/resource/person/12858> owl:sameAs <http://www.wikidata.org/entity/Q135266580> .
+
+<https://bball-intelligence.com/resource/person/12917> owl:sameAs <http://www.wikidata.org/entity/Q19968635> .
+
+<https://bball-intelligence.com/resource/person/13164> owl:sameAs <http://www.wikidata.org/entity/Q28663000> .
+
+<https://bball-intelligence.com/resource/person/13274> owl:sameAs <http://www.wikidata.org/entity/Q655613> .
+
+<https://bball-intelligence.com/resource/person/13419> owl:sameAs <http://www.wikidata.org/entity/Q6172859> .
+
+<https://bball-intelligence.com/resource/person/13446> owl:sameAs <http://www.wikidata.org/entity/Q61684778> .
+
+<https://bball-intelligence.com/resource/person/13451> owl:sameAs <http://www.wikidata.org/entity/Q5132957> .
+
+<https://bball-intelligence.com/resource/person/13509> owl:sameAs <http://www.wikidata.org/entity/Q100748164> .
+
+<https://bball-intelligence.com/resource/person/13531> owl:sameAs <http://www.wikidata.org/entity/Q20873402> .
+
+<https://bball-intelligence.com/resource/person/13800> owl:sameAs <http://www.wikidata.org/entity/Q100326576> .
+
+<https://bball-intelligence.com/resource/person/13828> owl:sameAs <http://www.wikidata.org/entity/Q47581206> .
+
+<https://bball-intelligence.com/resource/person/13922> owl:sameAs <http://www.wikidata.org/entity/Q6119701> .
+
+<https://bball-intelligence.com/resource/person/13971> owl:sameAs <http://www.wikidata.org/entity/Q21620654> .
+
+<https://bball-intelligence.com/resource/person/14006> owl:sameAs <http://www.wikidata.org/entity/Q99308317> .
+
+<https://bball-intelligence.com/resource/person/14194> owl:sameAs <http://www.wikidata.org/entity/Q27955257> .
+
+<https://bball-intelligence.com/resource/person/14264> owl:sameAs <http://www.wikidata.org/entity/Q6111584> .
+
+<https://bball-intelligence.com/resource/person/14266> owl:sameAs <http://www.wikidata.org/entity/Q20751868> .
+
+<https://bball-intelligence.com/resource/person/14612> owl:sameAs <http://www.wikidata.org/entity/Q28935619> .
+
+<https://bball-intelligence.com/resource/person/15140> owl:sameAs <http://www.wikidata.org/entity/Q28803988> .
+
+<https://bball-intelligence.com/resource/person/15145> owl:sameAs <http://www.wikidata.org/entity/Q27955258> .
+
+<https://bball-intelligence.com/resource/person/15166> owl:sameAs <http://www.wikidata.org/entity/Q132135141> .
+
+<https://bball-intelligence.com/resource/person/15179> owl:sameAs <http://www.wikidata.org/entity/Q41776958> .
+
+<https://bball-intelligence.com/resource/person/15181> owl:sameAs <http://www.wikidata.org/entity/Q968002> .
+
+<https://bball-intelligence.com/resource/person/15184> owl:sameAs <http://www.wikidata.org/entity/Q5860829> .
+
+<https://bball-intelligence.com/resource/person/15194> owl:sameAs <http://www.wikidata.org/entity/Q85635964> .
+
+<https://bball-intelligence.com/resource/person/15196> owl:sameAs <http://www.wikidata.org/entity/Q28028574> .
+
+<https://bball-intelligence.com/resource/person/15199> owl:sameAs <http://www.wikidata.org/entity/Q51078254> .
+
+<https://bball-intelligence.com/resource/person/15201> owl:sameAs <http://www.wikidata.org/entity/Q22968887> .
+
+<https://bball-intelligence.com/resource/person/15271> owl:sameAs <http://www.wikidata.org/entity/Q135266572> .
+
+<https://bball-intelligence.com/resource/person/15277> owl:sameAs <http://www.wikidata.org/entity/Q55314897> .
+
+<https://bball-intelligence.com/resource/person/15502> owl:sameAs <http://www.wikidata.org/entity/Q55496917> .
+
+<https://bball-intelligence.com/resource/person/15530> owl:sameAs <http://www.wikidata.org/entity/Q99394692> .
+
+<https://bball-intelligence.com/resource/person/15693> owl:sameAs <http://www.wikidata.org/entity/Q100718034> .
+
+<https://bball-intelligence.com/resource/person/15792> owl:sameAs <http://www.wikidata.org/entity/Q17332516> .
+
+<https://bball-intelligence.com/resource/person/15851> owl:sameAs <http://www.wikidata.org/entity/Q48604754> .
+
+<https://bball-intelligence.com/resource/person/15986> owl:sameAs <http://www.wikidata.org/entity/Q23011428> .
+
+<https://bball-intelligence.com/resource/person/16027> owl:sameAs <http://www.wikidata.org/entity/Q11857841> .
+
+<https://bball-intelligence.com/resource/person/16086> owl:sameAs <http://www.wikidata.org/entity/Q31199143> .
+
+<https://bball-intelligence.com/resource/person/16204> owl:sameAs <http://www.wikidata.org/entity/Q22970005> .
+
+<https://bball-intelligence.com/resource/person/16421> owl:sameAs <http://www.wikidata.org/entity/Q58308081> .
+
+<https://bball-intelligence.com/resource/person/16447> owl:sameAs <http://www.wikidata.org/entity/Q41733430> .
+
+<https://bball-intelligence.com/resource/person/16740> owl:sameAs <http://www.wikidata.org/entity/Q17859846> .
+
+<https://bball-intelligence.com/resource/person/16802> owl:sameAs <http://www.wikidata.org/entity/Q32882157> .
+
+<https://bball-intelligence.com/resource/person/16902> owl:sameAs <http://www.wikidata.org/entity/Q98273180> .
+
+<https://bball-intelligence.com/resource/person/16905> owl:sameAs <http://www.wikidata.org/entity/Q16236729> .
+
+<https://bball-intelligence.com/resource/person/16925> owl:sameAs <http://www.wikidata.org/entity/Q26838759> .
+
+<https://bball-intelligence.com/resource/person/16983> owl:sameAs <http://www.wikidata.org/entity/Q457047> .
+
+<https://bball-intelligence.com/resource/person/17010> owl:sameAs <http://www.wikidata.org/entity/Q19364839> .
+
+<https://bball-intelligence.com/resource/person/17067> owl:sameAs <http://www.wikidata.org/entity/Q27524994> .
+
+<https://bball-intelligence.com/resource/person/17115> owl:sameAs <http://www.wikidata.org/entity/Q28054167> .
+
+<https://bball-intelligence.com/resource/person/17122> owl:sameAs <http://www.wikidata.org/entity/Q66363558> .
+
+<https://bball-intelligence.com/resource/person/17138> owl:sameAs <http://www.wikidata.org/entity/Q16205574> .
+
+<https://bball-intelligence.com/resource/person/17158> owl:sameAs <http://www.wikidata.org/entity/Q26838758> .
+
+<https://bball-intelligence.com/resource/person/17184> owl:sameAs <http://www.wikidata.org/entity/Q28028576> .
+
+<https://bball-intelligence.com/resource/person/17229> owl:sameAs <http://www.wikidata.org/entity/Q100934374> .
+
+<https://bball-intelligence.com/resource/person/17267> owl:sameAs <http://www.wikidata.org/entity/Q16299089> .
+
+<https://bball-intelligence.com/resource/person/17296> owl:sameAs <http://www.wikidata.org/entity/Q17466239> .
+
+<https://bball-intelligence.com/resource/person/17306> owl:sameAs <http://www.wikidata.org/entity/Q56164223> .
+
+<https://bball-intelligence.com/resource/person/173678> owl:sameAs <http://www.wikidata.org/entity/Q48843903> .
+
+<https://bball-intelligence.com/resource/person/173787> owl:sameAs <http://www.wikidata.org/entity/Q85927418> .
+
+<https://bball-intelligence.com/resource/person/173806> owl:sameAs <http://www.wikidata.org/entity/Q106646569> .
+
+<https://bball-intelligence.com/resource/person/173818> owl:sameAs <http://www.wikidata.org/entity/Q100774072> .
+
+<https://bball-intelligence.com/resource/person/174019> owl:sameAs <http://www.wikidata.org/entity/Q56025896> .
+
+<https://bball-intelligence.com/resource/person/174182> owl:sameAs <http://www.wikidata.org/entity/Q123575481> .
+
+<https://bball-intelligence.com/resource/person/174273> owl:sameAs <http://www.wikidata.org/entity/Q109424508> .
+
+<https://bball-intelligence.com/resource/person/17431> owl:sameAs <http://www.wikidata.org/entity/Q3703168> .
+
+<https://bball-intelligence.com/resource/person/174345> owl:sameAs <http://www.wikidata.org/entity/Q61855034> .
+
+<https://bball-intelligence.com/resource/person/174360> owl:sameAs <http://www.wikidata.org/entity/Q109311550> .
+
+<https://bball-intelligence.com/resource/person/174361> owl:sameAs <http://www.wikidata.org/entity/Q107588913> .
+
+<https://bball-intelligence.com/resource/person/174376> owl:sameAs <http://www.wikidata.org/entity/Q130300239> .
+
+<https://bball-intelligence.com/resource/person/174459> owl:sameAs <http://www.wikidata.org/entity/Q38794952> .
+
+<https://bball-intelligence.com/resource/person/174460> owl:sameAs <http://www.wikidata.org/entity/Q38794938> .
+
+<https://bball-intelligence.com/resource/person/174461> owl:sameAs <http://www.wikidata.org/entity/Q38794943> .
+
+<https://bball-intelligence.com/resource/person/174465> owl:sameAs <http://www.wikidata.org/entity/Q33230883> .
+
+<https://bball-intelligence.com/resource/person/174467> owl:sameAs <http://www.wikidata.org/entity/Q73933032> .
+
+<https://bball-intelligence.com/resource/person/174470> owl:sameAs <http://www.wikidata.org/entity/Q135409525> .
+
+<https://bball-intelligence.com/resource/person/174471> owl:sameAs <http://www.wikidata.org/entity/Q42911590> .
+
+<https://bball-intelligence.com/resource/person/174472> owl:sameAs <http://www.wikidata.org/entity/Q106672940> .
+
+<https://bball-intelligence.com/resource/person/174556> owl:sameAs <http://www.wikidata.org/entity/Q50772643> .
+
+<https://bball-intelligence.com/resource/person/174557> owl:sameAs <http://www.wikidata.org/entity/Q39274219> .
+
+<https://bball-intelligence.com/resource/person/174558> owl:sameAs <http://www.wikidata.org/entity/Q26702466> .
+
+<https://bball-intelligence.com/resource/person/174559> owl:sameAs <http://www.wikidata.org/entity/Q51763872> .
+
+<https://bball-intelligence.com/resource/person/174560> owl:sameAs <http://www.wikidata.org/entity/Q50748014> .
+
+<https://bball-intelligence.com/resource/person/174643> owl:sameAs <http://www.wikidata.org/entity/Q56164210> .
+
+<https://bball-intelligence.com/resource/person/174644> owl:sameAs <http://www.wikidata.org/entity/Q62286953> .
+
+<https://bball-intelligence.com/resource/person/174646> owl:sameAs <http://www.wikidata.org/entity/Q39082203> .
+
+<https://bball-intelligence.com/resource/person/174654> owl:sameAs <http://www.wikidata.org/entity/Q27524990> .
+
+<https://bball-intelligence.com/resource/person/174655> owl:sameAs <http://www.wikidata.org/entity/Q5933893> .
+
+<https://bball-intelligence.com/resource/person/174656> owl:sameAs <http://www.wikidata.org/entity/Q40672280> .
+
+<https://bball-intelligence.com/resource/person/174658> owl:sameAs <http://www.wikidata.org/entity/Q100885817> .
+
+<https://bball-intelligence.com/resource/person/174660> owl:sameAs <http://www.wikidata.org/entity/Q40683784> .
+
+<https://bball-intelligence.com/resource/person/174662> owl:sameAs <http://www.wikidata.org/entity/Q99689215> .
+
+<https://bball-intelligence.com/resource/person/174664> owl:sameAs <http://www.wikidata.org/entity/Q121030678> .
+
+<https://bball-intelligence.com/resource/person/174665> owl:sameAs <http://www.wikidata.org/entity/Q94508448> .
+
+<https://bball-intelligence.com/resource/person/174712> owl:sameAs <http://www.wikidata.org/entity/Q61290502> .
+
+<https://bball-intelligence.com/resource/person/174731> owl:sameAs <http://www.wikidata.org/entity/Q16300915> .
+
+<https://bball-intelligence.com/resource/person/174804> owl:sameAs <http://www.wikidata.org/entity/Q56318288> .
+
+<https://bball-intelligence.com/resource/person/17491> owl:sameAs <http://www.wikidata.org/entity/Q55281540> .
+
+<https://bball-intelligence.com/resource/person/174924> owl:sameAs <http://www.wikidata.org/entity/Q59269114> .
+
+<https://bball-intelligence.com/resource/person/174966> owl:sameAs <http://www.wikidata.org/entity/Q72351322> .
+
+<https://bball-intelligence.com/resource/person/174967> owl:sameAs <http://www.wikidata.org/entity/Q105712027> .
+
+<https://bball-intelligence.com/resource/person/174973> owl:sameAs <http://www.wikidata.org/entity/Q73621844> .
+
+<https://bball-intelligence.com/resource/person/174974> owl:sameAs <http://www.wikidata.org/entity/Q107586074> .
+
+<https://bball-intelligence.com/resource/person/174977> owl:sameAs <http://www.wikidata.org/entity/Q118441172> .
+
+<https://bball-intelligence.com/resource/person/175000> owl:sameAs <http://www.wikidata.org/entity/Q100873044> .
+
+<https://bball-intelligence.com/resource/person/175015> owl:sameAs <http://www.wikidata.org/entity/Q106977365> .
+
+<https://bball-intelligence.com/resource/person/175113> owl:sameAs <http://www.wikidata.org/entity/Q61854824> .
+
+<https://bball-intelligence.com/resource/person/175133> owl:sameAs <http://www.wikidata.org/entity/Q99485106> .
+
+<https://bball-intelligence.com/resource/person/175137> owl:sameAs <http://www.wikidata.org/entity/Q70877064> .
+
+<https://bball-intelligence.com/resource/person/175142> owl:sameAs <http://www.wikidata.org/entity/Q58006972> .
+
+<https://bball-intelligence.com/resource/person/175143> owl:sameAs <http://www.wikidata.org/entity/Q5616256> .
+
+<https://bball-intelligence.com/resource/person/175148> owl:sameAs <http://www.wikidata.org/entity/Q24005475> .
+
+<https://bball-intelligence.com/resource/person/175156> owl:sameAs <http://www.wikidata.org/entity/Q56660103> .
+
+<https://bball-intelligence.com/resource/person/175158> owl:sameAs <http://www.wikidata.org/entity/Q73627558> .
+
+<https://bball-intelligence.com/resource/person/175163> owl:sameAs <http://www.wikidata.org/entity/Q115168112> .
+
+<https://bball-intelligence.com/resource/person/175172> owl:sameAs <http://www.wikidata.org/entity/Q85864972> .
+
+<https://bball-intelligence.com/resource/person/175178> owl:sameAs <http://www.wikidata.org/entity/Q56660051> .
+
+<https://bball-intelligence.com/resource/person/175188> owl:sameAs <http://www.wikidata.org/entity/Q56164091> .
+
+<https://bball-intelligence.com/resource/person/175234> owl:sameAs <http://www.wikidata.org/entity/Q40208729> .
+
+<https://bball-intelligence.com/resource/person/175322> owl:sameAs <http://www.wikidata.org/entity/Q57497065> .
+
+<https://bball-intelligence.com/resource/person/175437> owl:sameAs <http://www.wikidata.org/entity/Q112892816> .
+
+<https://bball-intelligence.com/resource/person/175571> owl:sameAs <http://www.wikidata.org/entity/Q60828840> .
+
+<https://bball-intelligence.com/resource/person/175621> owl:sameAs <http://www.wikidata.org/entity/Q99762676> .
+
+<https://bball-intelligence.com/resource/person/175627> owl:sameAs <http://www.wikidata.org/entity/Q28711824> .
+
+<https://bball-intelligence.com/resource/person/175855> owl:sameAs <http://www.wikidata.org/entity/Q100874765> .
+
+<https://bball-intelligence.com/resource/person/175927> owl:sameAs <http://www.wikidata.org/entity/Q106627490> .
+
+<https://bball-intelligence.com/resource/person/175964> owl:sameAs <http://www.wikidata.org/entity/Q101120473> .
+
+<https://bball-intelligence.com/resource/person/175982> owl:sameAs <http://www.wikidata.org/entity/Q110252706> .
+
+<https://bball-intelligence.com/resource/person/175991> owl:sameAs <http://www.wikidata.org/entity/Q106617555> .
+
+<https://bball-intelligence.com/resource/person/175993> owl:sameAs <http://www.wikidata.org/entity/Q3315404> .
+
+<https://bball-intelligence.com/resource/person/175994> owl:sameAs <http://www.wikidata.org/entity/Q135347740> .
+
+<https://bball-intelligence.com/resource/person/175995> owl:sameAs <http://www.wikidata.org/entity/Q105396510> .
+
+<https://bball-intelligence.com/resource/person/175996> owl:sameAs <http://www.wikidata.org/entity/Q12399307> .
+
+<https://bball-intelligence.com/resource/person/175997> owl:sameAs <http://www.wikidata.org/entity/Q135266514> .
+
+<https://bball-intelligence.com/resource/person/1760> owl:sameAs <http://www.wikidata.org/entity/Q2834234> .
+
+<https://bball-intelligence.com/resource/person/176000> owl:sameAs <http://www.wikidata.org/entity/Q109424511> .
+
+<https://bball-intelligence.com/resource/person/176111> owl:sameAs <http://www.wikidata.org/entity/Q107586254> .
+
+<https://bball-intelligence.com/resource/person/176116> owl:sameAs <http://www.wikidata.org/entity/Q121141480> .
+
+<https://bball-intelligence.com/resource/person/176269> owl:sameAs <http://www.wikidata.org/entity/Q107586268> .
+
+<https://bball-intelligence.com/resource/person/176665> owl:sameAs <http://www.wikidata.org/entity/Q60768756> .
+
+<https://bball-intelligence.com/resource/person/176765> owl:sameAs <http://www.wikidata.org/entity/Q121499576> .
+
+<https://bball-intelligence.com/resource/person/177210> owl:sameAs <http://www.wikidata.org/entity/Q23772064> .
+
+<https://bball-intelligence.com/resource/person/177371> owl:sameAs <http://www.wikidata.org/entity/Q66386553> .
+
+<https://bball-intelligence.com/resource/person/177673> owl:sameAs <http://www.wikidata.org/entity/Q107029288> .
+
+<https://bball-intelligence.com/resource/person/177720> owl:sameAs <http://www.wikidata.org/entity/Q60828674> .
+
+<https://bball-intelligence.com/resource/person/17774> owl:sameAs <http://www.wikidata.org/entity/Q3844995> .
+
+<https://bball-intelligence.com/resource/person/177902> owl:sameAs <http://www.wikidata.org/entity/Q51795088> .
+
+<https://bball-intelligence.com/resource/person/177986> owl:sameAs <http://www.wikidata.org/entity/Q73626251> .
+
+<https://bball-intelligence.com/resource/person/178032> owl:sameAs <http://www.wikidata.org/entity/Q58006966> .
+
+<https://bball-intelligence.com/resource/person/178042> owl:sameAs <http://www.wikidata.org/entity/Q58917374> .
+
+<https://bball-intelligence.com/resource/person/178045> owl:sameAs <http://www.wikidata.org/entity/Q56164213> .
+
+<https://bball-intelligence.com/resource/person/178047> owl:sameAs <http://www.wikidata.org/entity/Q56255032> .
+
+<https://bball-intelligence.com/resource/person/178050> owl:sameAs <http://www.wikidata.org/entity/Q56489290> .
+
+<https://bball-intelligence.com/resource/person/178051> owl:sameAs <http://www.wikidata.org/entity/Q127327580> .
+
+<https://bball-intelligence.com/resource/person/178053> owl:sameAs <http://www.wikidata.org/entity/Q125214112> .
+
+<https://bball-intelligence.com/resource/person/178054> owl:sameAs <http://www.wikidata.org/entity/Q130773773> .
+
+<https://bball-intelligence.com/resource/person/178058> owl:sameAs <http://www.wikidata.org/entity/Q56164176> .
+
+<https://bball-intelligence.com/resource/person/178060> owl:sameAs <http://www.wikidata.org/entity/Q57555670> .
+
+<https://bball-intelligence.com/resource/person/178061> owl:sameAs <http://www.wikidata.org/entity/Q29878602> .
+
+<https://bball-intelligence.com/resource/person/178063> owl:sameAs <http://www.wikidata.org/entity/Q58980916> .
+
+<https://bball-intelligence.com/resource/person/178065> owl:sameAs <http://www.wikidata.org/entity/Q55713902> .
+
+<https://bball-intelligence.com/resource/person/178070> owl:sameAs <http://www.wikidata.org/entity/Q135266535> .
+
+<https://bball-intelligence.com/resource/person/178087> owl:sameAs <http://www.wikidata.org/entity/Q14918475> .
+
+<https://bball-intelligence.com/resource/person/178099> owl:sameAs <http://www.wikidata.org/entity/Q112674305> .
+
+<https://bball-intelligence.com/resource/person/178117> owl:sameAs <http://www.wikidata.org/entity/Q65159336> .
+
+<https://bball-intelligence.com/resource/person/178126> owl:sameAs <http://www.wikidata.org/entity/Q100939033> .
+
+<https://bball-intelligence.com/resource/person/178217> owl:sameAs <http://www.wikidata.org/entity/Q100926544> .
+
+<https://bball-intelligence.com/resource/person/178255> owl:sameAs <http://www.wikidata.org/entity/Q59639138> .
+
+<https://bball-intelligence.com/resource/person/1783> owl:sameAs <http://www.wikidata.org/entity/Q62033136> .
+
+<https://bball-intelligence.com/resource/person/178318> owl:sameAs <http://www.wikidata.org/entity/Q123000687> .
+
+<https://bball-intelligence.com/resource/person/17835> owl:sameAs <http://www.wikidata.org/entity/Q20829592> .
+
+<https://bball-intelligence.com/resource/person/178365> owl:sameAs <http://www.wikidata.org/entity/Q136622987> .
+
+<https://bball-intelligence.com/resource/person/178405> owl:sameAs <http://www.wikidata.org/entity/Q98465766> .
+
+<https://bball-intelligence.com/resource/person/178419> owl:sameAs <http://www.wikidata.org/entity/Q107076209> .
+
+<https://bball-intelligence.com/resource/person/17843> owl:sameAs <http://www.wikidata.org/entity/Q27786547> .
+
+<https://bball-intelligence.com/resource/person/178432> owl:sameAs <http://www.wikidata.org/entity/Q100913715> .
+
+<https://bball-intelligence.com/resource/person/178435> owl:sameAs <http://www.wikidata.org/entity/Q100931490> .
+
+<https://bball-intelligence.com/resource/person/178488> owl:sameAs <http://www.wikidata.org/entity/Q76907402> .
+
+<https://bball-intelligence.com/resource/person/178564> owl:sameAs <http://www.wikidata.org/entity/Q85865237> .
+
+<https://bball-intelligence.com/resource/person/178567> owl:sameAs <http://www.wikidata.org/entity/Q98383281> .
+
+<https://bball-intelligence.com/resource/person/178575> owl:sameAs <http://www.wikidata.org/entity/Q100805256> .
+
+<https://bball-intelligence.com/resource/person/178581> owl:sameAs <http://www.wikidata.org/entity/Q100804783> .
+
+<https://bball-intelligence.com/resource/person/178592> owl:sameAs <http://www.wikidata.org/entity/Q100868667> .
+
+<https://bball-intelligence.com/resource/person/178625> owl:sameAs <http://www.wikidata.org/entity/Q55386662> .
+
+<https://bball-intelligence.com/resource/person/17867> owl:sameAs <http://www.wikidata.org/entity/Q28779479> .
+
+<https://bball-intelligence.com/resource/person/178749> owl:sameAs <http://www.wikidata.org/entity/Q81327458> .
+
+<https://bball-intelligence.com/resource/person/17893> owl:sameAs <http://www.wikidata.org/entity/Q56660058> .
+
+<https://bball-intelligence.com/resource/person/179264> owl:sameAs <http://www.wikidata.org/entity/Q26217931> .
+
+<https://bball-intelligence.com/resource/person/179279> owl:sameAs <http://www.wikidata.org/entity/Q66372482> .
+
+<https://bball-intelligence.com/resource/person/179370> owl:sameAs <http://www.wikidata.org/entity/Q65160589> .
+
+<https://bball-intelligence.com/resource/person/179386> owl:sameAs <http://www.wikidata.org/entity/Q66821477> .
+
+<https://bball-intelligence.com/resource/person/179403> owl:sameAs <http://www.wikidata.org/entity/Q111127504> .
+
+<https://bball-intelligence.com/resource/person/179435> owl:sameAs <http://www.wikidata.org/entity/Q98539592> .
+
+<https://bball-intelligence.com/resource/person/179446> owl:sameAs <http://www.wikidata.org/entity/Q57422563> .
+
+<https://bball-intelligence.com/resource/person/179451> owl:sameAs <http://www.wikidata.org/entity/Q105731907> .
+
+<https://bball-intelligence.com/resource/person/179534> owl:sameAs <http://www.wikidata.org/entity/Q88967183> .
+
+<https://bball-intelligence.com/resource/person/179539> owl:sameAs <http://www.wikidata.org/entity/Q73627493> .
+
+<https://bball-intelligence.com/resource/person/179566> owl:sameAs <http://www.wikidata.org/entity/Q97014526> .
+
+<https://bball-intelligence.com/resource/person/179737> owl:sameAs <http://www.wikidata.org/entity/Q113196588> .
+
+<https://bball-intelligence.com/resource/person/179738> owl:sameAs <http://www.wikidata.org/entity/Q83432328> .
+
+<https://bball-intelligence.com/resource/person/179740> owl:sameAs <http://www.wikidata.org/entity/Q27893553> .
+
+<https://bball-intelligence.com/resource/person/179831> owl:sameAs <http://www.wikidata.org/entity/Q113623463> .
+
+<https://bball-intelligence.com/resource/person/179834> owl:sameAs <http://www.wikidata.org/entity/Q110261374> .
+
+<https://bball-intelligence.com/resource/person/179842> owl:sameAs <http://www.wikidata.org/entity/Q97921711> .
+
+<https://bball-intelligence.com/resource/person/179855> owl:sameAs <http://www.wikidata.org/entity/Q64010226> .
+
+<https://bball-intelligence.com/resource/person/179867> owl:sameAs <http://www.wikidata.org/entity/Q58981064> .
+
+<https://bball-intelligence.com/resource/person/179869> owl:sameAs <http://www.wikidata.org/entity/Q53764753> .
+
+<https://bball-intelligence.com/resource/person/179876> owl:sameAs <http://www.wikidata.org/entity/Q71135218> .
+
+<https://bball-intelligence.com/resource/person/179880> owl:sameAs <http://www.wikidata.org/entity/Q47954640> .
+
+<https://bball-intelligence.com/resource/person/179896> owl:sameAs <http://www.wikidata.org/entity/Q55583804> .
+
+<https://bball-intelligence.com/resource/person/179901> owl:sameAs <http://www.wikidata.org/entity/Q130662466> .
+
+<https://bball-intelligence.com/resource/person/179915> owl:sameAs <http://www.wikidata.org/entity/Q100903542> .
+
+<https://bball-intelligence.com/resource/person/179916> owl:sameAs <http://www.wikidata.org/entity/Q65037574> .
+
+<https://bball-intelligence.com/resource/person/179918> owl:sameAs <http://www.wikidata.org/entity/Q73634287> .
+
+<https://bball-intelligence.com/resource/person/179926> owl:sameAs <http://www.wikidata.org/entity/Q121161656> .
+
+<https://bball-intelligence.com/resource/person/179930> owl:sameAs <http://www.wikidata.org/entity/Q100919321> .
+
+<https://bball-intelligence.com/resource/person/179950> owl:sameAs <http://www.wikidata.org/entity/Q111684753> .
+
+<https://bball-intelligence.com/resource/person/180036> owl:sameAs <http://www.wikidata.org/entity/Q106207805> .
+
+<https://bball-intelligence.com/resource/person/180060> owl:sameAs <http://www.wikidata.org/entity/Q135343807> .
+
+<https://bball-intelligence.com/resource/person/18013> owl:sameAs <http://www.wikidata.org/entity/Q8193405> .
+
+<https://bball-intelligence.com/resource/person/180170> owl:sameAs <http://www.wikidata.org/entity/Q135343788> .
+
+<https://bball-intelligence.com/resource/person/18018> owl:sameAs <http://www.wikidata.org/entity/Q4245916> .
+
+<https://bball-intelligence.com/resource/person/180188> owl:sameAs <http://www.wikidata.org/entity/Q339454> .
+
+<https://bball-intelligence.com/resource/person/180403> owl:sameAs <http://www.wikidata.org/entity/Q113649754> .
+
+<https://bball-intelligence.com/resource/person/180442> owl:sameAs <http://www.wikidata.org/entity/Q108392728> .
+
+<https://bball-intelligence.com/resource/person/180476> owl:sameAs <http://www.wikidata.org/entity/Q85871763> .
+
+<https://bball-intelligence.com/resource/person/180855> owl:sameAs <http://www.wikidata.org/entity/Q72270208> .
+
+<https://bball-intelligence.com/resource/person/180856> owl:sameAs <http://www.wikidata.org/entity/Q73627577> .
+
+<https://bball-intelligence.com/resource/person/180857> owl:sameAs <http://www.wikidata.org/entity/Q73634580> .
+
+<https://bball-intelligence.com/resource/person/181027> owl:sameAs <http://www.wikidata.org/entity/Q107327655> .
+
+<https://bball-intelligence.com/resource/person/181159> owl:sameAs <http://www.wikidata.org/entity/Q7441439> .
+
+<https://bball-intelligence.com/resource/person/181160> owl:sameAs <http://www.wikidata.org/entity/Q65159457> .
+
+<https://bball-intelligence.com/resource/person/181161> owl:sameAs <http://www.wikidata.org/entity/Q73621953> .
+
+<https://bball-intelligence.com/resource/person/181162> owl:sameAs <http://www.wikidata.org/entity/Q85965655> .
+
+<https://bball-intelligence.com/resource/person/181163> owl:sameAs <http://www.wikidata.org/entity/Q6381979> .
+
+<https://bball-intelligence.com/resource/person/181165> owl:sameAs <http://www.wikidata.org/entity/Q96624910> .
+
+<https://bball-intelligence.com/resource/person/181166> owl:sameAs <http://www.wikidata.org/entity/Q72021654> .
+
+<https://bball-intelligence.com/resource/person/181167> owl:sameAs <http://www.wikidata.org/entity/Q66061990> .
+
+<https://bball-intelligence.com/resource/person/181168> owl:sameAs <http://www.wikidata.org/entity/Q76760511> .
+
+<https://bball-intelligence.com/resource/person/181178> owl:sameAs <http://www.wikidata.org/entity/Q131226736> .
+
+<https://bball-intelligence.com/resource/person/181247> owl:sameAs <http://www.wikidata.org/entity/Q77869350> .
+
+<https://bball-intelligence.com/resource/person/181350> owl:sameAs <http://www.wikidata.org/entity/Q114071516> .
+
+<https://bball-intelligence.com/resource/person/181513> owl:sameAs <http://www.wikidata.org/entity/Q98381809> .
+
+<https://bball-intelligence.com/resource/person/181643> owl:sameAs <http://www.wikidata.org/entity/Q98398982> .
+
+<https://bball-intelligence.com/resource/person/181690> owl:sameAs <http://www.wikidata.org/entity/Q55431064> .
+
+<https://bball-intelligence.com/resource/person/181707> owl:sameAs <http://www.wikidata.org/entity/Q100868965> .
+
+<https://bball-intelligence.com/resource/person/181934> owl:sameAs <http://www.wikidata.org/entity/Q111232365> .
+
+<https://bball-intelligence.com/resource/person/182453> owl:sameAs <http://www.wikidata.org/entity/Q97693284> .
+
+<https://bball-intelligence.com/resource/person/182560> owl:sameAs <http://www.wikidata.org/entity/Q85877376> .
+
+<https://bball-intelligence.com/resource/person/182605> owl:sameAs <http://www.wikidata.org/entity/Q100905529> .
+
+<https://bball-intelligence.com/resource/person/182744> owl:sameAs <http://www.wikidata.org/entity/Q87371159> .
+
+<https://bball-intelligence.com/resource/person/18297> owl:sameAs <http://www.wikidata.org/entity/Q509845> .
+
+<https://bball-intelligence.com/resource/person/18298> owl:sameAs <http://www.wikidata.org/entity/Q275889> .
+
+<https://bball-intelligence.com/resource/person/183184> owl:sameAs <http://www.wikidata.org/entity/Q137368462> .
+
+<https://bball-intelligence.com/resource/person/183202> owl:sameAs <http://www.wikidata.org/entity/Q117846413> .
+
+<https://bball-intelligence.com/resource/person/183205> owl:sameAs <http://www.wikidata.org/entity/Q109425786> .
+
+<https://bball-intelligence.com/resource/person/183209> owl:sameAs <http://www.wikidata.org/entity/Q7441231> .
+
+<https://bball-intelligence.com/resource/person/183242> owl:sameAs <http://www.wikidata.org/entity/Q130389539> .
+
+<https://bball-intelligence.com/resource/person/183265> owl:sameAs <http://www.wikidata.org/entity/Q98710377> .
+
+<https://bball-intelligence.com/resource/person/183268> owl:sameAs <http://www.wikidata.org/entity/Q132887747> .
+
+<https://bball-intelligence.com/resource/person/183269> owl:sameAs <http://www.wikidata.org/entity/Q131584629> .
+
+<https://bball-intelligence.com/resource/person/183271> owl:sameAs <http://www.wikidata.org/entity/Q50874941> .
+
+<https://bball-intelligence.com/resource/person/183276> owl:sameAs <http://www.wikidata.org/entity/Q98539601> .
+
+<https://bball-intelligence.com/resource/person/183369> owl:sameAs <http://www.wikidata.org/entity/Q134691731> .
+
+<https://bball-intelligence.com/resource/person/183472> owl:sameAs <http://www.wikidata.org/entity/Q99535271> .
+
+<https://bball-intelligence.com/resource/person/183475> owl:sameAs <http://www.wikidata.org/entity/Q110215363> .
+
+<https://bball-intelligence.com/resource/person/183682> owl:sameAs <http://www.wikidata.org/entity/Q65581392> .
+
+<https://bball-intelligence.com/resource/person/183726> owl:sameAs <http://www.wikidata.org/entity/Q107586380> .
+
+<https://bball-intelligence.com/resource/person/183727> owl:sameAs <http://www.wikidata.org/entity/Q104621898> .
+
+<https://bball-intelligence.com/resource/person/183799> owl:sameAs <http://www.wikidata.org/entity/Q110264031> .
+
+<https://bball-intelligence.com/resource/person/183805> owl:sameAs <http://www.wikidata.org/entity/Q905177> .
+
+<https://bball-intelligence.com/resource/person/183820> owl:sameAs <http://www.wikidata.org/entity/Q130212069> .
+
+<https://bball-intelligence.com/resource/person/183821> owl:sameAs <http://www.wikidata.org/entity/Q135642959> .
+
+<https://bball-intelligence.com/resource/person/183826> owl:sameAs <http://www.wikidata.org/entity/Q89373987> .
+
+<https://bball-intelligence.com/resource/person/183831> owl:sameAs <http://www.wikidata.org/entity/Q110271131> .
+
+<https://bball-intelligence.com/resource/person/18388> owl:sameAs <http://www.wikidata.org/entity/Q97767085> .
+
+<https://bball-intelligence.com/resource/person/183924> owl:sameAs <http://www.wikidata.org/entity/Q6056028> .
+
+<https://bball-intelligence.com/resource/person/183953> owl:sameAs <http://www.wikidata.org/entity/Q100767958> .
+
+<https://bball-intelligence.com/resource/person/18404> owl:sameAs <http://www.wikidata.org/entity/Q29064> .
+
+<https://bball-intelligence.com/resource/person/18405> owl:sameAs <http://www.wikidata.org/entity/Q3707253> .
+
+<https://bball-intelligence.com/resource/person/18489> owl:sameAs <http://www.wikidata.org/entity/Q6111029> .
+
+<https://bball-intelligence.com/resource/person/185086> owl:sameAs <http://www.wikidata.org/entity/Q70881333> .
+
+<https://bball-intelligence.com/resource/person/185090> owl:sameAs <http://www.wikidata.org/entity/Q100774597> .
+
+<https://bball-intelligence.com/resource/person/185156> owl:sameAs <http://www.wikidata.org/entity/Q94485418> .
+
+<https://bball-intelligence.com/resource/person/18551> owl:sameAs <http://www.wikidata.org/entity/Q93412543> .
+
+<https://bball-intelligence.com/resource/person/18606> owl:sameAs <http://www.wikidata.org/entity/Q3814987> .
+
+<https://bball-intelligence.com/resource/person/18741> owl:sameAs <http://www.wikidata.org/entity/Q26250961> .
+
+<https://bball-intelligence.com/resource/person/18755> owl:sameAs <http://www.wikidata.org/entity/Q124344953> .
+
+<https://bball-intelligence.com/resource/person/188144> owl:sameAs <http://www.wikidata.org/entity/Q97687423> .
+
+<https://bball-intelligence.com/resource/person/18834> owl:sameAs <http://www.wikidata.org/entity/Q47493873> .
+
+<https://bball-intelligence.com/resource/person/188682> owl:sameAs <http://www.wikidata.org/entity/Q98667815> .
+
+<https://bball-intelligence.com/resource/person/188762> owl:sameAs <http://www.wikidata.org/entity/Q27755902> .
+
+<https://bball-intelligence.com/resource/person/188799> owl:sameAs <http://www.wikidata.org/entity/Q100878486> .
+
+<https://bball-intelligence.com/resource/person/188814> owl:sameAs <http://www.wikidata.org/entity/Q100776311> .
+
+<https://bball-intelligence.com/resource/person/188955> owl:sameAs <http://www.wikidata.org/entity/Q50359742> .
+
+<https://bball-intelligence.com/resource/person/189199> owl:sameAs <http://www.wikidata.org/entity/Q100771447> .
+
+<https://bball-intelligence.com/resource/person/18923> owl:sameAs <http://www.wikidata.org/entity/Q557508> .
+
+<https://bball-intelligence.com/resource/person/189251> owl:sameAs <http://www.wikidata.org/entity/Q100873186> .
+
+<https://bball-intelligence.com/resource/person/189332> owl:sameAs <http://www.wikidata.org/entity/Q100892393> .
+
+<https://bball-intelligence.com/resource/person/189335> owl:sameAs <http://www.wikidata.org/entity/Q98207901> .
+
+<https://bball-intelligence.com/resource/person/189366> owl:sameAs <http://www.wikidata.org/entity/Q100916195> .
+
+<https://bball-intelligence.com/resource/person/189412> owl:sameAs <http://www.wikidata.org/entity/Q98207887> .
+
+<https://bball-intelligence.com/resource/person/189432> owl:sameAs <http://www.wikidata.org/entity/Q100776321> .
+
+<https://bball-intelligence.com/resource/person/189448> owl:sameAs <http://www.wikidata.org/entity/Q100413541> .
+
+<https://bball-intelligence.com/resource/person/189522> owl:sameAs <http://www.wikidata.org/entity/Q100785611> .
+
+<https://bball-intelligence.com/resource/person/189523> owl:sameAs <http://www.wikidata.org/entity/Q100807501> .
+
+<https://bball-intelligence.com/resource/person/189545> owl:sameAs <http://www.wikidata.org/entity/Q100891340> .
+
+<https://bball-intelligence.com/resource/person/189685> owl:sameAs <http://www.wikidata.org/entity/Q100800219> .
+
+<https://bball-intelligence.com/resource/person/18977> owl:sameAs <http://www.wikidata.org/entity/Q2558243> .
+
+<https://bball-intelligence.com/resource/person/189796> owl:sameAs <http://www.wikidata.org/entity/Q100808367> .
+
+<https://bball-intelligence.com/resource/person/189853> owl:sameAs <http://www.wikidata.org/entity/Q100917706> .
+
+<https://bball-intelligence.com/resource/person/189920> owl:sameAs <http://www.wikidata.org/entity/Q100945412> .
+
+<https://bball-intelligence.com/resource/person/190049> owl:sameAs <http://www.wikidata.org/entity/Q104213929> .
+
+<https://bball-intelligence.com/resource/person/190343> owl:sameAs <http://www.wikidata.org/entity/Q100892334> .
+
+<https://bball-intelligence.com/resource/person/190499> owl:sameAs <http://www.wikidata.org/entity/Q3190505> .
+
+<https://bball-intelligence.com/resource/person/190529> owl:sameAs <http://www.wikidata.org/entity/Q100879095> .
+
+<https://bball-intelligence.com/resource/person/190559> owl:sameAs <http://www.wikidata.org/entity/Q100876855> .
+
+<https://bball-intelligence.com/resource/person/19074> owl:sameAs <http://www.wikidata.org/entity/Q15096603> .
+
+<https://bball-intelligence.com/resource/person/190810> owl:sameAs <http://www.wikidata.org/entity/Q100744770> .
+
+<https://bball-intelligence.com/resource/person/190822> owl:sameAs <http://www.wikidata.org/entity/Q100860227> .
+
+<https://bball-intelligence.com/resource/person/191080> owl:sameAs <http://www.wikidata.org/entity/Q100785738> .
+
+<https://bball-intelligence.com/resource/person/191092> owl:sameAs <http://www.wikidata.org/entity/Q100892284> .
+
+<https://bball-intelligence.com/resource/person/191138> owl:sameAs <http://www.wikidata.org/entity/Q99394901> .
+
+<https://bball-intelligence.com/resource/person/191207> owl:sameAs <http://www.wikidata.org/entity/Q100944013> .
+
+<https://bball-intelligence.com/resource/person/191465> owl:sameAs <http://www.wikidata.org/entity/Q100827269> .
+
+<https://bball-intelligence.com/resource/person/191501> owl:sameAs <http://www.wikidata.org/entity/Q100984097> .
+
+<https://bball-intelligence.com/resource/person/192212> owl:sameAs <http://www.wikidata.org/entity/Q100886525> .
+
+<https://bball-intelligence.com/resource/person/192270> owl:sameAs <http://www.wikidata.org/entity/Q100800245> .
+
+<https://bball-intelligence.com/resource/person/192327> owl:sameAs <http://www.wikidata.org/entity/Q98539585> .
+
+<https://bball-intelligence.com/resource/person/192411> owl:sameAs <http://www.wikidata.org/entity/Q29049234> .
+
+<https://bball-intelligence.com/resource/person/192437> owl:sameAs <http://www.wikidata.org/entity/Q2959828> .
+
+<https://bball-intelligence.com/resource/person/192467> owl:sameAs <http://www.wikidata.org/entity/Q100942573> .
+
+<https://bball-intelligence.com/resource/person/192504> owl:sameAs <http://www.wikidata.org/entity/Q100722635> .
+
+<https://bball-intelligence.com/resource/person/192517> owl:sameAs <http://www.wikidata.org/entity/Q100876962> .
+
+<https://bball-intelligence.com/resource/person/192583> owl:sameAs <http://www.wikidata.org/entity/Q100751335> .
+
+<https://bball-intelligence.com/resource/person/19259> owl:sameAs <http://www.wikidata.org/entity/Q3990717> .
+
+<https://bball-intelligence.com/resource/person/193518> owl:sameAs <http://www.wikidata.org/entity/Q100887505> .
+
+<https://bball-intelligence.com/resource/person/194727> owl:sameAs <http://www.wikidata.org/entity/Q100892228> .
+
+<https://bball-intelligence.com/resource/person/194789> owl:sameAs <http://www.wikidata.org/entity/Q100929961> .
+
+<https://bball-intelligence.com/resource/person/19575> owl:sameAs <http://www.wikidata.org/entity/Q12382730> .
+
+<https://bball-intelligence.com/resource/person/201958> owl:sameAs <http://www.wikidata.org/entity/Q99529459> .
+
+<https://bball-intelligence.com/resource/person/20206> owl:sameAs <http://www.wikidata.org/entity/Q603540> .
+
+<https://bball-intelligence.com/resource/person/20207> owl:sameAs <http://www.wikidata.org/entity/Q3779613> .
+
+<https://bball-intelligence.com/resource/person/20209> owl:sameAs <http://www.wikidata.org/entity/Q1991465> .
+
+<https://bball-intelligence.com/resource/person/20215> owl:sameAs <http://www.wikidata.org/entity/Q2447240> .
+
+<https://bball-intelligence.com/resource/person/20386> owl:sameAs <http://www.wikidata.org/entity/Q597474> .
+
+<https://bball-intelligence.com/resource/person/204066> owl:sameAs <http://www.wikidata.org/entity/Q100940307> .
+
+<https://bball-intelligence.com/resource/person/204135> owl:sameAs <http://www.wikidata.org/entity/Q98539743> .
+
+<https://bball-intelligence.com/resource/person/204801> owl:sameAs <http://www.wikidata.org/entity/Q98713665> .
+
+<https://bball-intelligence.com/resource/person/20506> owl:sameAs <http://www.wikidata.org/entity/Q1986881> .
+
+<https://bball-intelligence.com/resource/person/205093> owl:sameAs <http://www.wikidata.org/entity/Q100757847> .
+
+<https://bball-intelligence.com/resource/person/205340> owl:sameAs <http://www.wikidata.org/entity/Q100779043> .
+
+<https://bball-intelligence.com/resource/person/205501> owl:sameAs <http://www.wikidata.org/entity/Q100796935> .
+
+<https://bball-intelligence.com/resource/person/205566> owl:sameAs <http://www.wikidata.org/entity/Q100773863> .
+
+<https://bball-intelligence.com/resource/person/205700> owl:sameAs <http://www.wikidata.org/entity/Q100869568> .
+
+<https://bball-intelligence.com/resource/person/206568> owl:sameAs <http://www.wikidata.org/entity/Q121141449> .
+
+<https://bball-intelligence.com/resource/person/206718> owl:sameAs <http://www.wikidata.org/entity/Q113466938> .
+
+<https://bball-intelligence.com/resource/person/206824> owl:sameAs <http://www.wikidata.org/entity/Q110945096> .
+
+<https://bball-intelligence.com/resource/person/206891> owl:sameAs <http://www.wikidata.org/entity/Q102347081> .
+
+<https://bball-intelligence.com/resource/person/206893> owl:sameAs <http://www.wikidata.org/entity/Q106834917> .
+
+<https://bball-intelligence.com/resource/person/206894> owl:sameAs <http://www.wikidata.org/entity/Q100717976> .
+
+<https://bball-intelligence.com/resource/person/206895> owl:sameAs <http://www.wikidata.org/entity/Q28409380> .
+
+<https://bball-intelligence.com/resource/person/209764> owl:sameAs <http://www.wikidata.org/entity/Q100939311> .
+
+<https://bball-intelligence.com/resource/person/210240> owl:sameAs <http://www.wikidata.org/entity/Q100793129> .
+
+<https://bball-intelligence.com/resource/person/210876> owl:sameAs <http://www.wikidata.org/entity/Q100893322> .
+
+<https://bball-intelligence.com/resource/person/212352> owl:sameAs <http://www.wikidata.org/entity/Q98998109> .
+
+<https://bball-intelligence.com/resource/person/212371> owl:sameAs <http://www.wikidata.org/entity/Q118235976> .
+
+<https://bball-intelligence.com/resource/person/212389> owl:sameAs <http://www.wikidata.org/entity/Q135266527> .
+
+<https://bball-intelligence.com/resource/person/212392> owl:sameAs <http://www.wikidata.org/entity/Q105645001> .
+
+<https://bball-intelligence.com/resource/person/212393> owl:sameAs <http://www.wikidata.org/entity/Q132672594> .
+
+<https://bball-intelligence.com/resource/person/212395> owl:sameAs <http://www.wikidata.org/entity/Q122113994> .
+
+<https://bball-intelligence.com/resource/person/212426> owl:sameAs <http://www.wikidata.org/entity/Q98539584> .
+
+<https://bball-intelligence.com/resource/person/212427> owl:sameAs <http://www.wikidata.org/entity/Q109313329> .
+
+<https://bball-intelligence.com/resource/person/212476> owl:sameAs <http://www.wikidata.org/entity/Q111423509> .
+
+<https://bball-intelligence.com/resource/person/212499> owl:sameAs <http://www.wikidata.org/entity/Q99641208> .
+
+<https://bball-intelligence.com/resource/person/212569> owl:sameAs <http://www.wikidata.org/entity/Q28653790> .
+
+<https://bball-intelligence.com/resource/person/212572> owl:sameAs <http://www.wikidata.org/entity/Q115939991> .
+
+<https://bball-intelligence.com/resource/person/212600> owl:sameAs <http://www.wikidata.org/entity/Q135266464> .
+
+<https://bball-intelligence.com/resource/person/212880> owl:sameAs <http://www.wikidata.org/entity/Q113495876> .
+
+<https://bball-intelligence.com/resource/person/213180> owl:sameAs <http://www.wikidata.org/entity/Q62746443> .
+
+<https://bball-intelligence.com/resource/person/213477> owl:sameAs <http://www.wikidata.org/entity/Q98280549> .
+
+<https://bball-intelligence.com/resource/person/214033> owl:sameAs <http://www.wikidata.org/entity/Q123516211> .
+
+<https://bball-intelligence.com/resource/person/214247> owl:sameAs <http://www.wikidata.org/entity/Q106834926> .
+
+<https://bball-intelligence.com/resource/person/21468> owl:sameAs <http://www.wikidata.org/entity/Q868486> .
+
+<https://bball-intelligence.com/resource/person/214699> owl:sameAs <http://www.wikidata.org/entity/Q28421808> .
+
+<https://bball-intelligence.com/resource/person/21470> owl:sameAs <http://www.wikidata.org/entity/Q3826505> .
+
+<https://bball-intelligence.com/resource/person/21473> owl:sameAs <http://www.wikidata.org/entity/Q6069978> .
+
+<https://bball-intelligence.com/resource/person/21480> owl:sameAs <http://www.wikidata.org/entity/Q2455956> .
+
+<https://bball-intelligence.com/resource/person/21499> owl:sameAs <http://www.wikidata.org/entity/Q2879599> .
+
+<https://bball-intelligence.com/resource/person/21501> owl:sameAs <http://www.wikidata.org/entity/Q5942023> .
+
+<https://bball-intelligence.com/resource/person/21502> owl:sameAs <http://www.wikidata.org/entity/Q6037166> .
+
+<https://bball-intelligence.com/resource/person/21520> owl:sameAs <http://www.wikidata.org/entity/Q11016705> .
+
+<https://bball-intelligence.com/resource/person/21569> owl:sameAs <http://www.wikidata.org/entity/Q3948120> .
+
+<https://bball-intelligence.com/resource/person/21699> owl:sameAs <http://www.wikidata.org/entity/Q557846> .
+
+<https://bball-intelligence.com/resource/person/21832> owl:sameAs <http://www.wikidata.org/entity/Q18224364> .
+
+<https://bball-intelligence.com/resource/person/218909> owl:sameAs <http://www.wikidata.org/entity/Q120718052> .
+
+<https://bball-intelligence.com/resource/person/21959> owl:sameAs <http://www.wikidata.org/entity/Q4282577> .
+
+<https://bball-intelligence.com/resource/person/21960> owl:sameAs <http://www.wikidata.org/entity/Q9096532> .
+
+<https://bball-intelligence.com/resource/person/21965> owl:sameAs <http://www.wikidata.org/entity/Q47091241> .
+
+<https://bball-intelligence.com/resource/person/21991> owl:sameAs <http://www.wikidata.org/entity/Q4024807> .
+
+<https://bball-intelligence.com/resource/person/220205> owl:sameAs <http://www.wikidata.org/entity/Q121596800> .
+
+<https://bball-intelligence.com/resource/person/22070> owl:sameAs <http://www.wikidata.org/entity/Q764618> .
+
+<https://bball-intelligence.com/resource/person/22143> owl:sameAs <http://www.wikidata.org/entity/Q1103821> .
+
+<https://bball-intelligence.com/resource/person/222275> owl:sameAs <http://www.wikidata.org/entity/Q113196589> .
+
+<https://bball-intelligence.com/resource/person/22243> owl:sameAs <http://www.wikidata.org/entity/Q3811542> .
+
+<https://bball-intelligence.com/resource/person/22367> owl:sameAs <http://www.wikidata.org/entity/Q12676090> .
+
+<https://bball-intelligence.com/resource/person/22381> owl:sameAs <http://www.wikidata.org/entity/Q5937942> .
+
+<https://bball-intelligence.com/resource/person/22383> owl:sameAs <http://www.wikidata.org/entity/Q1643332> .
+
+<https://bball-intelligence.com/resource/person/22387> owl:sameAs <http://www.wikidata.org/entity/Q22968876> .
+
+<https://bball-intelligence.com/resource/person/22391> owl:sameAs <http://www.wikidata.org/entity/Q9053922> .
+
+<https://bball-intelligence.com/resource/person/22435> owl:sameAs <http://www.wikidata.org/entity/Q3514328> .
+
+<https://bball-intelligence.com/resource/person/22471> owl:sameAs <http://www.wikidata.org/entity/Q13736665> .
+
+<https://bball-intelligence.com/resource/person/231110> owl:sameAs <http://www.wikidata.org/entity/Q1494363> .
+
+<https://bball-intelligence.com/resource/person/23163> owl:sameAs <http://www.wikidata.org/entity/Q52133762> .
+
+<https://bball-intelligence.com/resource/person/232203> owl:sameAs <http://www.wikidata.org/entity/Q109424531> .
+
+<https://bball-intelligence.com/resource/person/232393> owl:sameAs <http://www.wikidata.org/entity/Q135266503> .
+
+<https://bball-intelligence.com/resource/person/232845> owl:sameAs <http://www.wikidata.org/entity/Q106819169> .
+
+<https://bball-intelligence.com/resource/person/234152> owl:sameAs <http://www.wikidata.org/entity/Q106819140> .
+
+<https://bball-intelligence.com/resource/person/234162> owl:sameAs <http://www.wikidata.org/entity/Q106819174> .
+
+<https://bball-intelligence.com/resource/person/234201> owl:sameAs <http://www.wikidata.org/entity/Q136368794> .
+
+<https://bball-intelligence.com/resource/person/234494> owl:sameAs <http://www.wikidata.org/entity/Q135905376> .
+
+<https://bball-intelligence.com/resource/person/234571> owl:sameAs <http://www.wikidata.org/entity/Q106818446> .
+
+<https://bball-intelligence.com/resource/person/236493> owl:sameAs <http://www.wikidata.org/entity/Q5673594> .
+
+<https://bball-intelligence.com/resource/person/23678> owl:sameAs <http://www.wikidata.org/entity/Q27893720> .
+
+<https://bball-intelligence.com/resource/person/23681> owl:sameAs <http://www.wikidata.org/entity/Q5995361> .
+
+<https://bball-intelligence.com/resource/person/23706> owl:sameAs <http://www.wikidata.org/entity/Q118601623> .
+
+<https://bball-intelligence.com/resource/person/23717> owl:sameAs <http://www.wikidata.org/entity/Q1653116> .
+
+<https://bball-intelligence.com/resource/person/237190> owl:sameAs <http://www.wikidata.org/entity/Q107586319> .
+
+<https://bball-intelligence.com/resource/person/237357> owl:sameAs <http://www.wikidata.org/entity/Q116180529> .
+
+<https://bball-intelligence.com/resource/person/23747> owl:sameAs <http://www.wikidata.org/entity/Q5925092> .
+
+<https://bball-intelligence.com/resource/person/237536> owl:sameAs <http://www.wikidata.org/entity/Q93847797> .
+
+<https://bball-intelligence.com/resource/person/237635> owl:sameAs <http://www.wikidata.org/entity/Q99695478> .
+
+<https://bball-intelligence.com/resource/person/237638> owl:sameAs <http://www.wikidata.org/entity/Q135458072> .
+
+<https://bball-intelligence.com/resource/person/237645> owl:sameAs <http://www.wikidata.org/entity/Q136332896> .
+
+<https://bball-intelligence.com/resource/person/237717> owl:sameAs <http://www.wikidata.org/entity/Q111423505> .
+
+<https://bball-intelligence.com/resource/person/237718> owl:sameAs <http://www.wikidata.org/entity/Q110652731> .
+
+<https://bball-intelligence.com/resource/person/237719> owl:sameAs <http://www.wikidata.org/entity/Q121161754> .
+
+<https://bball-intelligence.com/resource/person/237720> owl:sameAs <http://www.wikidata.org/entity/Q65696633> .
+
+<https://bball-intelligence.com/resource/person/237726> owl:sameAs <http://www.wikidata.org/entity/Q120491715> .
+
+<https://bball-intelligence.com/resource/person/237769> owl:sameAs <http://www.wikidata.org/entity/Q113990223> .
+
+<https://bball-intelligence.com/resource/person/237776> owl:sameAs <http://www.wikidata.org/entity/Q108042078> .
+
+<https://bball-intelligence.com/resource/person/237814> owl:sameAs <http://www.wikidata.org/entity/Q109314187> .
+
+<https://bball-intelligence.com/resource/person/237816> owl:sameAs <http://www.wikidata.org/entity/Q113489131> .
+
+<https://bball-intelligence.com/resource/person/23803> owl:sameAs <http://www.wikidata.org/entity/Q5749379> .
+
+<https://bball-intelligence.com/resource/person/23819> owl:sameAs <http://www.wikidata.org/entity/Q124845386> .
+
+<https://bball-intelligence.com/resource/person/238282> owl:sameAs <http://www.wikidata.org/entity/Q122829474> .
+
+<https://bball-intelligence.com/resource/person/23830> owl:sameAs <http://www.wikidata.org/entity/Q39274297> .
+
+<https://bball-intelligence.com/resource/person/238563> owl:sameAs <http://www.wikidata.org/entity/Q107507002> .
+
+<https://bball-intelligence.com/resource/person/238656> owl:sameAs <http://www.wikidata.org/entity/Q111239834> .
+
+<https://bball-intelligence.com/resource/person/238664> owl:sameAs <http://www.wikidata.org/entity/Q18747889> .
+
+<https://bball-intelligence.com/resource/person/239862> owl:sameAs <http://www.wikidata.org/entity/Q108756368> .
+
+<https://bball-intelligence.com/resource/person/242515> owl:sameAs <http://www.wikidata.org/entity/Q118150629> .
+
+<https://bball-intelligence.com/resource/person/242538> owl:sameAs <http://www.wikidata.org/entity/Q135359595> .
+
+<https://bball-intelligence.com/resource/person/242589> owl:sameAs <http://www.wikidata.org/entity/Q136626038> .
+
+<https://bball-intelligence.com/resource/person/242591> owl:sameAs <http://www.wikidata.org/entity/Q121033550> .
+
+<https://bball-intelligence.com/resource/person/242618> owl:sameAs <http://www.wikidata.org/entity/Q135358028> .
+
+<https://bball-intelligence.com/resource/person/243188> owl:sameAs <http://www.wikidata.org/entity/Q113470406> .
+
+<https://bball-intelligence.com/resource/person/24482> owl:sameAs <http://www.wikidata.org/entity/Q19703594> .
+
+<https://bball-intelligence.com/resource/person/245088> owl:sameAs <http://www.wikidata.org/entity/Q109318415> .
+
+<https://bball-intelligence.com/resource/person/245128> owl:sameAs <http://www.wikidata.org/entity/Q120730068> .
+
+<https://bball-intelligence.com/resource/person/245144> owl:sameAs <http://www.wikidata.org/entity/Q113196590> .
+
+<https://bball-intelligence.com/resource/person/245147> owl:sameAs <http://www.wikidata.org/entity/Q113585641> .
+
+<https://bball-intelligence.com/resource/person/245148> owl:sameAs <http://www.wikidata.org/entity/Q130692115> .
+
+<https://bball-intelligence.com/resource/person/245149> owl:sameAs <http://www.wikidata.org/entity/Q131612184> .
+
+<https://bball-intelligence.com/resource/person/245156> owl:sameAs <http://www.wikidata.org/entity/Q130220274> .
+
+<https://bball-intelligence.com/resource/person/245235> owl:sameAs <http://www.wikidata.org/entity/Q121161655> .
+
+<https://bball-intelligence.com/resource/person/245250> owl:sameAs <http://www.wikidata.org/entity/Q3610669> .
+
+<https://bball-intelligence.com/resource/person/245374> owl:sameAs <http://www.wikidata.org/entity/Q130218359> .
+
+<https://bball-intelligence.com/resource/person/245403> owl:sameAs <http://www.wikidata.org/entity/Q131300021> .
+
+<https://bball-intelligence.com/resource/person/245532> owl:sameAs <http://www.wikidata.org/entity/Q130212070> .
+
+<https://bball-intelligence.com/resource/person/245870> owl:sameAs <http://www.wikidata.org/entity/Q131148460> .
+
+<https://bball-intelligence.com/resource/person/246157> owl:sameAs <http://www.wikidata.org/entity/Q116986812> .
+
+<https://bball-intelligence.com/resource/person/246159> owl:sameAs <http://www.wikidata.org/entity/Q27649219> .
+
+<https://bball-intelligence.com/resource/person/246270> owl:sameAs <http://www.wikidata.org/entity/Q120870278> .
+
+<https://bball-intelligence.com/resource/person/246949> owl:sameAs <http://www.wikidata.org/entity/Q135905398> .
+
+<https://bball-intelligence.com/resource/person/246964> owl:sameAs <http://www.wikidata.org/entity/Q113325094> .
+
+<https://bball-intelligence.com/resource/person/247199> owl:sameAs <http://www.wikidata.org/entity/Q135987712> .
+
+<https://bball-intelligence.com/resource/person/247541> owl:sameAs <http://www.wikidata.org/entity/Q115581331> .
+
+<https://bball-intelligence.com/resource/person/248931> owl:sameAs <http://www.wikidata.org/entity/Q137115841> .
+
+<https://bball-intelligence.com/resource/person/248938> owl:sameAs <http://www.wikidata.org/entity/Q100796205> .
+
+<https://bball-intelligence.com/resource/person/249017> owl:sameAs <http://www.wikidata.org/entity/Q66020210> .
+
+<https://bball-intelligence.com/resource/person/249520> owl:sameAs <http://www.wikidata.org/entity/Q3949407> .
+
+<https://bball-intelligence.com/resource/person/250744> owl:sameAs <http://www.wikidata.org/entity/Q109312218> .
+
+<https://bball-intelligence.com/resource/person/251435> owl:sameAs <http://www.wikidata.org/entity/Q135266502> .
+
+<https://bball-intelligence.com/resource/person/251480> owl:sameAs <http://www.wikidata.org/entity/Q116945647> .
+
+<https://bball-intelligence.com/resource/person/252512> owl:sameAs <http://www.wikidata.org/entity/Q111387686> .
+
+<https://bball-intelligence.com/resource/person/252962> owl:sameAs <http://www.wikidata.org/entity/Q59915026> .
+
+<https://bball-intelligence.com/resource/person/253146> owl:sameAs <http://www.wikidata.org/entity/Q20994116> .
+
+<https://bball-intelligence.com/resource/person/253147> owl:sameAs <http://www.wikidata.org/entity/Q2894478> .
+
+<https://bball-intelligence.com/resource/person/253675> owl:sameAs <http://www.wikidata.org/entity/Q130662460> .
+
+<https://bball-intelligence.com/resource/person/253697> owl:sameAs <http://www.wikidata.org/entity/Q123318829> .
+
+<https://bball-intelligence.com/resource/person/253846> owl:sameAs <http://www.wikidata.org/entity/Q108413768> .
+
+<https://bball-intelligence.com/resource/person/253970> owl:sameAs <http://www.wikidata.org/entity/Q120729224> .
+
+<https://bball-intelligence.com/resource/person/254568> owl:sameAs <http://www.wikidata.org/entity/Q120224295> .
+
+<https://bball-intelligence.com/resource/person/254571> owl:sameAs <http://www.wikidata.org/entity/Q115706486> .
+
+<https://bball-intelligence.com/resource/person/255037> owl:sameAs <http://www.wikidata.org/entity/Q117025908> .
+
+<https://bball-intelligence.com/resource/person/255717> owl:sameAs <http://www.wikidata.org/entity/Q134469172> .
+
+<https://bball-intelligence.com/resource/person/256296> owl:sameAs <http://www.wikidata.org/entity/Q116948419> .
+
+<https://bball-intelligence.com/resource/person/256439> owl:sameAs <http://www.wikidata.org/entity/Q136304714> .
+
+<https://bball-intelligence.com/resource/person/256446> owl:sameAs <http://www.wikidata.org/entity/Q135361811> .
+
+<https://bball-intelligence.com/resource/person/256678> owl:sameAs <http://www.wikidata.org/entity/Q108053726> .
+
+<https://bball-intelligence.com/resource/person/256829> owl:sameAs <http://www.wikidata.org/entity/Q27078133> .
+
+<https://bball-intelligence.com/resource/person/261645> owl:sameAs <http://www.wikidata.org/entity/Q117023403> .
+
+<https://bball-intelligence.com/resource/person/263387> owl:sameAs <http://www.wikidata.org/entity/Q20056574> .
+
+<https://bball-intelligence.com/resource/person/264156> owl:sameAs <http://www.wikidata.org/entity/Q120884840> .
+
+<https://bball-intelligence.com/resource/person/264798> owl:sameAs <http://www.wikidata.org/entity/Q27553606> .
+
+<https://bball-intelligence.com/resource/person/267326> owl:sameAs <http://www.wikidata.org/entity/Q100934319> .
+
+<https://bball-intelligence.com/resource/person/269219> owl:sameAs <http://www.wikidata.org/entity/Q119454662> .
+
+<https://bball-intelligence.com/resource/person/269989> owl:sameAs <http://www.wikidata.org/entity/Q117479266> .
+
+<https://bball-intelligence.com/resource/person/271245> owl:sameAs <http://www.wikidata.org/entity/Q123455570> .
+
+<https://bball-intelligence.com/resource/person/271856> owl:sameAs <http://www.wikidata.org/entity/Q98381809> .
+
+<https://bball-intelligence.com/resource/person/271969> owl:sameAs <http://www.wikidata.org/entity/Q27238361> .
+
+<https://bball-intelligence.com/resource/person/272304> owl:sameAs <http://www.wikidata.org/entity/Q117829045> .
+
+<https://bball-intelligence.com/resource/person/273235> owl:sameAs <http://www.wikidata.org/entity/Q135347167> .
+
+<https://bball-intelligence.com/resource/person/273726> owl:sameAs <http://www.wikidata.org/entity/Q131522605> .
+
+<https://bball-intelligence.com/resource/person/276826> owl:sameAs <http://www.wikidata.org/entity/Q135267493> .
+
+<https://bball-intelligence.com/resource/person/276981> owl:sameAs <http://www.wikidata.org/entity/Q128791693> .
+
+<https://bball-intelligence.com/resource/person/277536> owl:sameAs <http://www.wikidata.org/entity/Q111967269> .
+
+<https://bball-intelligence.com/resource/person/277938> owl:sameAs <http://www.wikidata.org/entity/Q135356894> .
+
+<https://bball-intelligence.com/resource/person/278255> owl:sameAs <http://www.wikidata.org/entity/Q135354193> .
+
+<https://bball-intelligence.com/resource/person/284895> owl:sameAs <http://www.wikidata.org/entity/Q136304714> .
+
+<https://bball-intelligence.com/resource/person/289780> owl:sameAs <http://www.wikidata.org/entity/Q100870636> .
+
+<https://bball-intelligence.com/resource/person/289782> owl:sameAs <http://www.wikidata.org/entity/Q121842577> .
+
+<https://bball-intelligence.com/resource/person/289783> owl:sameAs <http://www.wikidata.org/entity/Q27869788> .
+
+<https://bball-intelligence.com/resource/person/289787> owl:sameAs <http://www.wikidata.org/entity/Q100927307> .
+
+<https://bball-intelligence.com/resource/person/289790> owl:sameAs <http://www.wikidata.org/entity/Q137889139> .
+
+<https://bball-intelligence.com/resource/person/289905> owl:sameAs <http://www.wikidata.org/entity/Q100723209> .
+
+<https://bball-intelligence.com/resource/person/291389> owl:sameAs <http://www.wikidata.org/entity/Q135266495> .
+
+<https://bball-intelligence.com/resource/person/292918> owl:sameAs <http://www.wikidata.org/entity/Q36734288> .
+
+<https://bball-intelligence.com/resource/person/294044> owl:sameAs <http://www.wikidata.org/entity/Q100895809> .
+
+<https://bball-intelligence.com/resource/person/294889> owl:sameAs <http://www.wikidata.org/entity/Q106818531> .
+
+<https://bball-intelligence.com/resource/person/300067> owl:sameAs <http://www.wikidata.org/entity/Q135347441> .
+
+<https://bball-intelligence.com/resource/person/300072> owl:sameAs <http://www.wikidata.org/entity/Q100880513> .
+
+<https://bball-intelligence.com/resource/person/300073> owl:sameAs <http://www.wikidata.org/entity/Q123480136> .
+
+<https://bball-intelligence.com/resource/person/33128> owl:sameAs <http://www.wikidata.org/entity/Q2829052> .
+
+<https://bball-intelligence.com/resource/person/33229> owl:sameAs <http://www.wikidata.org/entity/Q1683877> .
+
+<https://bball-intelligence.com/resource/person/33488> owl:sameAs <http://www.wikidata.org/entity/Q22675837> .
+
+<https://bball-intelligence.com/resource/person/33556> owl:sameAs <http://www.wikidata.org/entity/Q3857403> .
+
+<https://bball-intelligence.com/resource/person/33664> owl:sameAs <http://www.wikidata.org/entity/Q6125561> .
+
+<https://bball-intelligence.com/resource/person/33877> owl:sameAs <http://www.wikidata.org/entity/Q25510710> .
+
+<https://bball-intelligence.com/resource/person/340> owl:sameAs <http://www.wikidata.org/entity/Q38711033> .
+
+<https://bball-intelligence.com/resource/person/34166> owl:sameAs <http://www.wikidata.org/entity/Q67506845> .
+
+<https://bball-intelligence.com/resource/person/34654> owl:sameAs <http://www.wikidata.org/entity/Q18616076> .
+
+<https://bball-intelligence.com/resource/person/34847> owl:sameAs <http://www.wikidata.org/entity/Q110866789> .
+
+<https://bball-intelligence.com/resource/person/35315> owl:sameAs <http://www.wikidata.org/entity/Q1763902> .
+
+<https://bball-intelligence.com/resource/person/35381> owl:sameAs <http://www.wikidata.org/entity/Q3814630> .
+
+<https://bball-intelligence.com/resource/person/35400> owl:sameAs <http://www.wikidata.org/entity/Q16582546> .
+
+<https://bball-intelligence.com/resource/person/35800> owl:sameAs <http://www.wikidata.org/entity/Q20709468> .
+
+<https://bball-intelligence.com/resource/person/36074> owl:sameAs <http://www.wikidata.org/entity/Q47456654> .
+
+<https://bball-intelligence.com/resource/person/36123> owl:sameAs <http://www.wikidata.org/entity/Q100893768> .
+
+<https://bball-intelligence.com/resource/person/36131> owl:sameAs <http://www.wikidata.org/entity/Q25509128> .
+
+<https://bball-intelligence.com/resource/person/36605> owl:sameAs <http://www.wikidata.org/entity/Q27983016> .
+
+<https://bball-intelligence.com/resource/person/36652> owl:sameAs <http://www.wikidata.org/entity/Q27916840> .
+
+<https://bball-intelligence.com/resource/person/36657> owl:sameAs <http://www.wikidata.org/entity/Q5410486> .
+
+<https://bball-intelligence.com/resource/person/36719> owl:sameAs <http://www.wikidata.org/entity/Q267190> .
+
+<https://bball-intelligence.com/resource/person/36800> owl:sameAs <http://www.wikidata.org/entity/Q14473718> .
+
+<https://bball-intelligence.com/resource/person/37021> owl:sameAs <http://www.wikidata.org/entity/Q22809342> .
+
+<https://bball-intelligence.com/resource/person/37049> owl:sameAs <http://www.wikidata.org/entity/Q59656025> .
+
+<https://bball-intelligence.com/resource/person/37554> owl:sameAs <http://www.wikidata.org/entity/Q70877108> .
+
+<https://bball-intelligence.com/resource/person/37750> owl:sameAs <http://www.wikidata.org/entity/Q23759966> .
+
+<https://bball-intelligence.com/resource/person/37779> owl:sameAs <http://www.wikidata.org/entity/Q17036933> .
+
+<https://bball-intelligence.com/resource/person/37780> owl:sameAs <http://www.wikidata.org/entity/Q100884464> .
+
+<https://bball-intelligence.com/resource/person/37789> owl:sameAs <http://www.wikidata.org/entity/Q5954602> .
+
+<https://bball-intelligence.com/resource/person/37806> owl:sameAs <http://www.wikidata.org/entity/Q2264160> .
+
+<https://bball-intelligence.com/resource/person/37811> owl:sameAs <http://www.wikidata.org/entity/Q18785158> .
+
+<https://bball-intelligence.com/resource/person/37827> owl:sameAs <http://www.wikidata.org/entity/Q15680065> .
+
+<https://bball-intelligence.com/resource/person/37829> owl:sameAs <http://www.wikidata.org/entity/Q15140303> .
+
+<https://bball-intelligence.com/resource/person/37842> owl:sameAs <http://www.wikidata.org/entity/Q16161680> .
+
+<https://bball-intelligence.com/resource/person/37846> owl:sameAs <http://www.wikidata.org/entity/Q27244969> .
+
+<https://bball-intelligence.com/resource/person/37848> owl:sameAs <http://www.wikidata.org/entity/Q13049223> .
+
+<https://bball-intelligence.com/resource/person/37850> owl:sameAs <http://www.wikidata.org/entity/Q14432081> .
+
+<https://bball-intelligence.com/resource/person/37883> owl:sameAs <http://www.wikidata.org/entity/Q4945233> .
+
+<https://bball-intelligence.com/resource/person/38014> owl:sameAs <http://www.wikidata.org/entity/Q30074499> .
+
+<https://bball-intelligence.com/resource/person/38030> owl:sameAs <http://www.wikidata.org/entity/Q20744966> .
+
+<https://bball-intelligence.com/resource/person/38055> owl:sameAs <http://www.wikidata.org/entity/Q16404343> .
+
+<https://bball-intelligence.com/resource/person/38081> owl:sameAs <http://www.wikidata.org/entity/Q17621503> .
+
+<https://bball-intelligence.com/resource/person/38319> owl:sameAs <http://www.wikidata.org/entity/Q6172643> .
+
+<https://bball-intelligence.com/resource/person/38320> owl:sameAs <http://www.wikidata.org/entity/Q85877454> .
+
+<https://bball-intelligence.com/resource/person/38324> owl:sameAs <http://www.wikidata.org/entity/Q65552631> .
+
+<https://bball-intelligence.com/resource/person/38334> owl:sameAs <http://www.wikidata.org/entity/Q27922636> .
+
+<https://bball-intelligence.com/resource/person/38346> owl:sameAs <http://www.wikidata.org/entity/Q30887836> .
+
+<https://bball-intelligence.com/resource/person/38368> owl:sameAs <http://www.wikidata.org/entity/Q85874832> .
+
+<https://bball-intelligence.com/resource/person/38431> owl:sameAs <http://www.wikidata.org/entity/Q135349166> .
+
+<https://bball-intelligence.com/resource/person/38738> owl:sameAs <http://www.wikidata.org/entity/Q21587764> .
+
+<https://bball-intelligence.com/resource/person/38781> owl:sameAs <http://www.wikidata.org/entity/Q98273188> .
+
+<https://bball-intelligence.com/resource/person/39013> owl:sameAs <http://www.wikidata.org/entity/Q26757468> .
+
+<https://bball-intelligence.com/resource/person/39058> owl:sameAs <http://www.wikidata.org/entity/Q23642285> .
+
+<https://bball-intelligence.com/resource/person/39183> owl:sameAs <http://www.wikidata.org/entity/Q96217072> .
+
+<https://bball-intelligence.com/resource/person/39193> owl:sameAs <http://www.wikidata.org/entity/Q136620399> .
+
+<https://bball-intelligence.com/resource/person/39209> owl:sameAs <http://www.wikidata.org/entity/Q109424520> .
+
+<https://bball-intelligence.com/resource/person/39263> owl:sameAs <http://www.wikidata.org/entity/Q14833805> .
+
+<https://bball-intelligence.com/resource/person/39317> owl:sameAs <http://www.wikidata.org/entity/Q20990714> .
+
+<https://bball-intelligence.com/resource/person/39345> owl:sameAs <http://www.wikidata.org/entity/Q20990704> .
+
+<https://bball-intelligence.com/resource/person/39536> owl:sameAs <http://www.wikidata.org/entity/Q12660954> .
+
+<https://bball-intelligence.com/resource/person/39570> owl:sameAs <http://www.wikidata.org/entity/Q24634598> .
+
+<https://bball-intelligence.com/resource/person/39612> owl:sameAs <http://www.wikidata.org/entity/Q5927348> .
+
+<https://bball-intelligence.com/resource/person/39872> owl:sameAs <http://www.wikidata.org/entity/Q28840777> .
+
+<https://bball-intelligence.com/resource/person/39875> owl:sameAs <http://www.wikidata.org/entity/Q2387252> .
+
+<https://bball-intelligence.com/resource/person/39996> owl:sameAs <http://www.wikidata.org/entity/Q20859546> .
+
+<https://bball-intelligence.com/resource/person/40033> owl:sameAs <http://www.wikidata.org/entity/Q60841497> .
+
+<https://bball-intelligence.com/resource/person/40198> owl:sameAs <http://www.wikidata.org/entity/Q27064089> .
+
+<https://bball-intelligence.com/resource/person/40266> owl:sameAs <http://www.wikidata.org/entity/Q39074062> .
+
+<https://bball-intelligence.com/resource/person/40280> owl:sameAs <http://www.wikidata.org/entity/Q100871741> .
+
+<https://bball-intelligence.com/resource/person/40316> owl:sameAs <http://www.wikidata.org/entity/Q43055456> .
+
+<https://bball-intelligence.com/resource/person/40320> owl:sameAs <http://www.wikidata.org/entity/Q18649752> .
+
+<https://bball-intelligence.com/resource/person/40357> owl:sameAs <http://www.wikidata.org/entity/Q21066847> .
+
+<https://bball-intelligence.com/resource/person/40365> owl:sameAs <http://www.wikidata.org/entity/Q6374642> .
+
+<https://bball-intelligence.com/resource/person/40445> owl:sameAs <http://www.wikidata.org/entity/Q16564591> .
+
+<https://bball-intelligence.com/resource/person/40500> owl:sameAs <http://www.wikidata.org/entity/Q15036353> .
+
+<https://bball-intelligence.com/resource/person/40599> owl:sameAs <http://www.wikidata.org/entity/Q22970789> .
+
+<https://bball-intelligence.com/resource/person/40732> owl:sameAs <http://www.wikidata.org/entity/Q41793675> .
+
+<https://bball-intelligence.com/resource/person/40751> owl:sameAs <http://www.wikidata.org/entity/Q27430287> .
+
+<https://bball-intelligence.com/resource/person/41044> owl:sameAs <http://www.wikidata.org/entity/Q24943593> .
+
+<https://bball-intelligence.com/resource/person/41165> owl:sameAs <http://www.wikidata.org/entity/Q27916838> .
+
+<https://bball-intelligence.com/resource/person/41335> owl:sameAs <http://www.wikidata.org/entity/Q6016138> .
+
+<https://bball-intelligence.com/resource/person/41339> owl:sameAs <http://www.wikidata.org/entity/Q135266571> .
+
+<https://bball-intelligence.com/resource/person/42264> owl:sameAs <http://www.wikidata.org/entity/Q24258665> .
+
+<https://bball-intelligence.com/resource/person/42602> owl:sameAs <http://www.wikidata.org/entity/Q2508338> .
+
+<https://bball-intelligence.com/resource/person/42973> owl:sameAs <http://www.wikidata.org/entity/Q714047> .
+
+<https://bball-intelligence.com/resource/person/43570> owl:sameAs <http://www.wikidata.org/entity/Q2620805> .
+
+<https://bball-intelligence.com/resource/person/43582> owl:sameAs <http://www.wikidata.org/entity/Q7688975> .
+
+<https://bball-intelligence.com/resource/person/43598> owl:sameAs <http://www.wikidata.org/entity/Q71317018> .
+
+<https://bball-intelligence.com/resource/person/43603> owl:sameAs <http://www.wikidata.org/entity/Q4714572> .
+
+<https://bball-intelligence.com/resource/person/43604> owl:sameAs <http://www.wikidata.org/entity/Q27916786> .
+
+<https://bball-intelligence.com/resource/person/43670> owl:sameAs <http://www.wikidata.org/entity/Q7049252> .
+
+<https://bball-intelligence.com/resource/person/43692> owl:sameAs <http://www.wikidata.org/entity/Q42907921> .
+
+<https://bball-intelligence.com/resource/person/43710> owl:sameAs <http://www.wikidata.org/entity/Q28595326> .
+
+<https://bball-intelligence.com/resource/person/43745> owl:sameAs <http://www.wikidata.org/entity/Q3940216> .
+
+<https://bball-intelligence.com/resource/person/43750> owl:sameAs <http://www.wikidata.org/entity/Q135349169> .
+
+<https://bball-intelligence.com/resource/person/43751> owl:sameAs <http://www.wikidata.org/entity/Q5654533> .
+
+<https://bball-intelligence.com/resource/person/43780> owl:sameAs <http://www.wikidata.org/entity/Q3372955> .
+
+<https://bball-intelligence.com/resource/person/43820> owl:sameAs <http://www.wikidata.org/entity/Q1986891> .
+
+<https://bball-intelligence.com/resource/person/43834> owl:sameAs <http://www.wikidata.org/entity/Q40661048> .
+
+<https://bball-intelligence.com/resource/person/43880> owl:sameAs <http://www.wikidata.org/entity/Q3807471> .
+
+<https://bball-intelligence.com/resource/person/44009> owl:sameAs <http://www.wikidata.org/entity/Q6148735> .
+
+<https://bball-intelligence.com/resource/person/44498> owl:sameAs <http://www.wikidata.org/entity/Q106616516> .
+
+<https://bball-intelligence.com/resource/person/44575> owl:sameAs <http://www.wikidata.org/entity/Q21067110> .
+
+<https://bball-intelligence.com/resource/person/45185> owl:sameAs <http://www.wikidata.org/entity/Q8076842> .
+
+<https://bball-intelligence.com/resource/person/45531> owl:sameAs <http://www.wikidata.org/entity/Q139081> .
+
+<https://bball-intelligence.com/resource/person/45676> owl:sameAs <http://www.wikidata.org/entity/Q6172792> .
+
+<https://bball-intelligence.com/resource/person/45677> owl:sameAs <http://www.wikidata.org/entity/Q5682721> .
+
+<https://bball-intelligence.com/resource/person/45678> owl:sameAs <http://www.wikidata.org/entity/Q74005> .
+
+<https://bball-intelligence.com/resource/person/45768> owl:sameAs <http://www.wikidata.org/entity/Q3809931> .
+
+<https://bball-intelligence.com/resource/person/45855> owl:sameAs <http://www.wikidata.org/entity/Q782619> .
+
+<https://bball-intelligence.com/resource/person/45863> owl:sameAs <http://www.wikidata.org/entity/Q1947984> .
+
+<https://bball-intelligence.com/resource/person/45878> owl:sameAs <http://www.wikidata.org/entity/Q135341902> .
+
+<https://bball-intelligence.com/resource/person/46238> owl:sameAs <http://www.wikidata.org/entity/Q1749420> .
+
+<https://bball-intelligence.com/resource/person/46369> owl:sameAs <http://www.wikidata.org/entity/Q3394111> .
+
+<https://bball-intelligence.com/resource/person/46420> owl:sameAs <http://www.wikidata.org/entity/Q109688542> .
+
+<https://bball-intelligence.com/resource/person/46481> owl:sameAs <http://www.wikidata.org/entity/Q288960> .
+
+<https://bball-intelligence.com/resource/person/46494> owl:sameAs <http://www.wikidata.org/entity/Q5223725> .
+
+<https://bball-intelligence.com/resource/person/46512> owl:sameAs <http://www.wikidata.org/entity/Q4753690> .
+
+<https://bball-intelligence.com/resource/person/46641> owl:sameAs <http://www.wikidata.org/entity/Q3681759> .
+
+<https://bball-intelligence.com/resource/person/46697> owl:sameAs <http://www.wikidata.org/entity/Q3823158> .
+
+<https://bball-intelligence.com/resource/person/46699> owl:sameAs <http://www.wikidata.org/entity/Q3330267> .
+
+<https://bball-intelligence.com/resource/person/46752> owl:sameAs <http://www.wikidata.org/entity/Q12263638> .
+
+<https://bball-intelligence.com/resource/person/46789> owl:sameAs <http://www.wikidata.org/entity/Q16233607> .
+
+<https://bball-intelligence.com/resource/person/46963> owl:sameAs <http://www.wikidata.org/entity/Q2919808> .
+
+<https://bball-intelligence.com/resource/person/47002> owl:sameAs <http://www.wikidata.org/entity/Q41776965> .
+
+<https://bball-intelligence.com/resource/person/47276> owl:sameAs <http://www.wikidata.org/entity/Q3340935> .
+
+<https://bball-intelligence.com/resource/person/47293> owl:sameAs <http://www.wikidata.org/entity/Q25891590> .
+
+<https://bball-intelligence.com/resource/person/47328> owl:sameAs <http://www.wikidata.org/entity/Q56660122> .
+
+<https://bball-intelligence.com/resource/person/47602> owl:sameAs <http://www.wikidata.org/entity/Q20713339> .
+
+<https://bball-intelligence.com/resource/person/47605> owl:sameAs <http://www.wikidata.org/entity/Q2620823> .
+
+<https://bball-intelligence.com/resource/person/47641> owl:sameAs <http://www.wikidata.org/entity/Q3331369> .
+
+<https://bball-intelligence.com/resource/person/47680> owl:sameAs <http://www.wikidata.org/entity/Q9012084> .
+
+<https://bball-intelligence.com/resource/person/47694> owl:sameAs <http://www.wikidata.org/entity/Q1764428> .
+
+<https://bball-intelligence.com/resource/person/47723> owl:sameAs <http://www.wikidata.org/entity/Q56044709> .
+
+<https://bball-intelligence.com/resource/person/47884> owl:sameAs <http://www.wikidata.org/entity/Q3992959> .
+
+<https://bball-intelligence.com/resource/person/47885> owl:sameAs <http://www.wikidata.org/entity/Q6174717> .
+
+<https://bball-intelligence.com/resource/person/47887> owl:sameAs <http://www.wikidata.org/entity/Q3810582> .
+
+<https://bball-intelligence.com/resource/person/47925> owl:sameAs <http://www.wikidata.org/entity/Q56706778> .
+
+<https://bball-intelligence.com/resource/person/48091> owl:sameAs <http://www.wikidata.org/entity/Q1753781> .
+
+<https://bball-intelligence.com/resource/person/48138> owl:sameAs <http://www.wikidata.org/entity/Q3350315> .
+
+<https://bball-intelligence.com/resource/person/48170> owl:sameAs <http://www.wikidata.org/entity/Q3013805> .
+
+<https://bball-intelligence.com/resource/person/48248> owl:sameAs <http://www.wikidata.org/entity/Q5246019> .
+
+<https://bball-intelligence.com/resource/person/48277> owl:sameAs <http://www.wikidata.org/entity/Q1114754> .
+
+<https://bball-intelligence.com/resource/person/48301> owl:sameAs <http://www.wikidata.org/entity/Q16989489> .
+
+<https://bball-intelligence.com/resource/person/48332> owl:sameAs <http://www.wikidata.org/entity/Q14703332> .
+
+<https://bball-intelligence.com/resource/person/48573> owl:sameAs <http://www.wikidata.org/entity/Q27983045> .
+
+<https://bball-intelligence.com/resource/person/48657> owl:sameAs <http://www.wikidata.org/entity/Q56461270> .
+
+<https://bball-intelligence.com/resource/person/48719> owl:sameAs <http://www.wikidata.org/entity/Q44008941> .
+
+<https://bball-intelligence.com/resource/person/48753> owl:sameAs <http://www.wikidata.org/entity/Q135266784> .
+
+<https://bball-intelligence.com/resource/person/48780> owl:sameAs <http://www.wikidata.org/entity/Q3857506> .
+
+<https://bball-intelligence.com/resource/person/48781> owl:sameAs <http://www.wikidata.org/entity/Q71316894> .
+
+<https://bball-intelligence.com/resource/person/48928> owl:sameAs <http://www.wikidata.org/entity/Q11940061> .
+
+<https://bball-intelligence.com/resource/person/48935> owl:sameAs <http://www.wikidata.org/entity/Q28028551> .
+
+<https://bball-intelligence.com/resource/person/48939> owl:sameAs <http://www.wikidata.org/entity/Q8263841> .
+
+<https://bball-intelligence.com/resource/person/48978> owl:sameAs <http://www.wikidata.org/entity/Q7860032> .
+
+<https://bball-intelligence.com/resource/person/49197> owl:sameAs <http://www.wikidata.org/entity/Q29655898> .
+
+<https://bball-intelligence.com/resource/person/49248> owl:sameAs <http://www.wikidata.org/entity/Q5232703> .
+
+<https://bball-intelligence.com/resource/person/49417> owl:sameAs <http://www.wikidata.org/entity/Q27869882> .
+
+<https://bball-intelligence.com/resource/person/49468> owl:sameAs <http://www.wikidata.org/entity/Q41776934> .
+
+<https://bball-intelligence.com/resource/person/49470> owl:sameAs <http://www.wikidata.org/entity/Q14329365> .
+
+<https://bball-intelligence.com/resource/person/49611> owl:sameAs <http://www.wikidata.org/entity/Q2701571> .
+
+<https://bball-intelligence.com/resource/person/49722> owl:sameAs <http://www.wikidata.org/entity/Q26856880> .
+
+<https://bball-intelligence.com/resource/person/49745> owl:sameAs <http://www.wikidata.org/entity/Q19622509> .
+
+<https://bball-intelligence.com/resource/person/50045> owl:sameAs <http://www.wikidata.org/entity/Q26971682> .
+
+<https://bball-intelligence.com/resource/person/50103> owl:sameAs <http://www.wikidata.org/entity/Q17466593> .
+
+<https://bball-intelligence.com/resource/person/50124> owl:sameAs <http://www.wikidata.org/entity/Q16403241> .
+
+<https://bball-intelligence.com/resource/person/50127> owl:sameAs <http://www.wikidata.org/entity/Q16234010> .
+
+<https://bball-intelligence.com/resource/person/50129> owl:sameAs <http://www.wikidata.org/entity/Q12655082> .
+
+<https://bball-intelligence.com/resource/person/50201> owl:sameAs <http://www.wikidata.org/entity/Q3266990> .
+
+<https://bball-intelligence.com/resource/person/50401> owl:sameAs <http://www.wikidata.org/entity/Q6777768> .
+
+<https://bball-intelligence.com/resource/person/50409> owl:sameAs <http://www.wikidata.org/entity/Q52891032> .
+
+<https://bball-intelligence.com/resource/person/50410> owl:sameAs <http://www.wikidata.org/entity/Q84030063> .
+
+<https://bball-intelligence.com/resource/person/50413> owl:sameAs <http://www.wikidata.org/entity/Q104316959> .
+
+<https://bball-intelligence.com/resource/person/50420> owl:sameAs <http://www.wikidata.org/entity/Q6042495> .
+
+<https://bball-intelligence.com/resource/person/50424> owl:sameAs <http://www.wikidata.org/entity/Q6165387> .
+
+<https://bball-intelligence.com/resource/person/50425> owl:sameAs <http://www.wikidata.org/entity/Q47001677> .
+
+<https://bball-intelligence.com/resource/person/50426> owl:sameAs <http://www.wikidata.org/entity/Q5798301> .
+
+<https://bball-intelligence.com/resource/person/50707> owl:sameAs <http://www.wikidata.org/entity/Q56073576> .
+
+<https://bball-intelligence.com/resource/person/50724> owl:sameAs <http://www.wikidata.org/entity/Q20033410> .
+
+<https://bball-intelligence.com/resource/person/50821> owl:sameAs <http://www.wikidata.org/entity/Q109425776> .
+
+<https://bball-intelligence.com/resource/person/50860> owl:sameAs <http://www.wikidata.org/entity/Q27916839> .
+
+<https://bball-intelligence.com/resource/person/50906> owl:sameAs <http://www.wikidata.org/entity/Q29477808> .
+
+<https://bball-intelligence.com/resource/person/51085> owl:sameAs <http://www.wikidata.org/entity/Q642585> .
+
+<https://bball-intelligence.com/resource/person/51112> owl:sameAs <http://www.wikidata.org/entity/Q18222884> .
+
+<https://bball-intelligence.com/resource/person/51276> owl:sameAs <http://www.wikidata.org/entity/Q73621865> .
+
+<https://bball-intelligence.com/resource/person/51320> owl:sameAs <http://www.wikidata.org/entity/Q2832492> .
+
+<https://bball-intelligence.com/resource/person/51333> owl:sameAs <http://www.wikidata.org/entity/Q19609677> .
+
+<https://bball-intelligence.com/resource/person/51485> owl:sameAs <http://www.wikidata.org/entity/Q3894702> .
+
+<https://bball-intelligence.com/resource/person/51507> owl:sameAs <http://www.wikidata.org/entity/Q21064095> .
+
+<https://bball-intelligence.com/resource/person/51512> owl:sameAs <http://www.wikidata.org/entity/Q22970795> .
+
+<https://bball-intelligence.com/resource/person/51744> owl:sameAs <http://www.wikidata.org/entity/Q6850625> .
+
+<https://bball-intelligence.com/resource/person/51749> owl:sameAs <http://www.wikidata.org/entity/Q18195561> .
+
+<https://bball-intelligence.com/resource/person/51931> owl:sameAs <http://www.wikidata.org/entity/Q38794910> .
+
+<https://bball-intelligence.com/resource/person/52032> owl:sameAs <http://www.wikidata.org/entity/Q5582421> .
+
+<https://bball-intelligence.com/resource/person/52182> owl:sameAs <http://www.wikidata.org/entity/Q5402403> .
+
+<https://bball-intelligence.com/resource/person/52227> owl:sameAs <http://www.wikidata.org/entity/Q27243366> .
+
+<https://bball-intelligence.com/resource/person/52261> owl:sameAs <http://www.wikidata.org/entity/Q9070351> .
+
+<https://bball-intelligence.com/resource/person/52264> owl:sameAs <http://www.wikidata.org/entity/Q16233346> .
+
+<https://bball-intelligence.com/resource/person/52423> owl:sameAs <http://www.wikidata.org/entity/Q6042985> .
+
+<https://bball-intelligence.com/resource/person/52425> owl:sameAs <http://www.wikidata.org/entity/Q4881569> .
+
+<https://bball-intelligence.com/resource/person/52435> owl:sameAs <http://www.wikidata.org/entity/Q27758530> .
+
+<https://bball-intelligence.com/resource/person/52689> owl:sameAs <http://www.wikidata.org/entity/Q52005818> .
+
+<https://bball-intelligence.com/resource/person/52813> owl:sameAs <http://www.wikidata.org/entity/Q28803985> .
+
+<https://bball-intelligence.com/resource/person/52819> owl:sameAs <http://www.wikidata.org/entity/Q31029554> .
+
+<https://bball-intelligence.com/resource/person/53031> owl:sameAs <http://www.wikidata.org/entity/Q20745161> .
+
+<https://bball-intelligence.com/resource/person/53035> owl:sameAs <http://www.wikidata.org/entity/Q18719949> .
+
+<https://bball-intelligence.com/resource/person/53043> owl:sameAs <http://www.wikidata.org/entity/Q56164222> .
+
+<https://bball-intelligence.com/resource/person/53114> owl:sameAs <http://www.wikidata.org/entity/Q26209500> .
+
+<https://bball-intelligence.com/resource/person/53296> owl:sameAs <http://www.wikidata.org/entity/Q28540313> .
+
+<https://bball-intelligence.com/resource/person/53441> owl:sameAs <http://www.wikidata.org/entity/Q28662896> .
+
+<https://bball-intelligence.com/resource/person/53510> owl:sameAs <http://www.wikidata.org/entity/Q40683677> .
+
+<https://bball-intelligence.com/resource/person/53563> owl:sameAs <http://www.wikidata.org/entity/Q14751020> .
+
+<https://bball-intelligence.com/resource/person/53668> owl:sameAs <http://www.wikidata.org/entity/Q100923521> .
+
+<https://bball-intelligence.com/resource/person/53741> owl:sameAs <http://www.wikidata.org/entity/Q16233009> .
+
+<https://bball-intelligence.com/resource/person/54182> owl:sameAs <http://www.wikidata.org/entity/Q40683834> .
+
+<https://bball-intelligence.com/resource/person/54271> owl:sameAs <http://www.wikidata.org/entity/Q16233942> .
+
+<https://bball-intelligence.com/resource/person/54648> owl:sameAs <http://www.wikidata.org/entity/Q35491313> .
+
+<https://bball-intelligence.com/resource/person/54754> owl:sameAs <http://www.wikidata.org/entity/Q45037580> .
+
+<https://bball-intelligence.com/resource/person/54916> owl:sameAs <http://www.wikidata.org/entity/Q6172828> .
+
+<https://bball-intelligence.com/resource/person/54969> owl:sameAs <http://www.wikidata.org/entity/Q38776915> .
+
+<https://bball-intelligence.com/resource/person/55175> owl:sameAs <http://www.wikidata.org/entity/Q17636445> .
+
+<https://bball-intelligence.com/resource/person/55815> owl:sameAs <http://www.wikidata.org/entity/Q66133724> .
+
+<https://bball-intelligence.com/resource/person/56068> owl:sameAs <http://www.wikidata.org/entity/Q135377087> .
+
+<https://bball-intelligence.com/resource/person/56135> owl:sameAs <http://www.wikidata.org/entity/Q19968864> .
+
+<https://bball-intelligence.com/resource/person/56188> owl:sameAs <http://www.wikidata.org/entity/Q27644380> .
+
+<https://bball-intelligence.com/resource/person/56387> owl:sameAs <http://www.wikidata.org/entity/Q20974656> .
+
+<https://bball-intelligence.com/resource/person/56430> owl:sameAs <http://www.wikidata.org/entity/Q23771888> .
+
+<https://bball-intelligence.com/resource/person/56514> owl:sameAs <http://www.wikidata.org/entity/Q40992231> .
+
+<https://bball-intelligence.com/resource/person/56525> owl:sameAs <http://www.wikidata.org/entity/Q28375265> .
+
+<https://bball-intelligence.com/resource/person/56526> owl:sameAs <http://www.wikidata.org/entity/Q100795203> .
+
+<https://bball-intelligence.com/resource/person/56559> owl:sameAs <http://www.wikidata.org/entity/Q70775499> .
+
+<https://bball-intelligence.com/resource/person/56693> owl:sameAs <http://www.wikidata.org/entity/Q61060063> .
+
+<https://bball-intelligence.com/resource/person/56720> owl:sameAs <http://www.wikidata.org/entity/Q41776953> .
+
+<https://bball-intelligence.com/resource/person/56721> owl:sameAs <http://www.wikidata.org/entity/Q135348379> .
+
+<https://bball-intelligence.com/resource/person/56811> owl:sameAs <http://www.wikidata.org/entity/Q62078349> .
+
+<https://bball-intelligence.com/resource/person/56830> owl:sameAs <http://www.wikidata.org/entity/Q70877018> .
+
+<https://bball-intelligence.com/resource/person/56879> owl:sameAs <http://www.wikidata.org/entity/Q56026978> .
+
+<https://bball-intelligence.com/resource/person/56931> owl:sameAs <http://www.wikidata.org/entity/Q5550310> .
+
+<https://bball-intelligence.com/resource/person/56983> owl:sameAs <http://www.wikidata.org/entity/Q17364392> .
+
+<https://bball-intelligence.com/resource/person/56986> owl:sameAs <http://www.wikidata.org/entity/Q20931764> .
+
+<https://bball-intelligence.com/resource/person/56990> owl:sameAs <http://www.wikidata.org/entity/Q28316656> .
+
+<https://bball-intelligence.com/resource/person/56994> owl:sameAs <http://www.wikidata.org/entity/Q116733009> .
+
+<https://bball-intelligence.com/resource/person/57097> owl:sameAs <http://www.wikidata.org/entity/Q4717539> .
+
+<https://bball-intelligence.com/resource/person/57137> owl:sameAs <http://www.wikidata.org/entity/Q60734143> .
+
+<https://bball-intelligence.com/resource/person/57139> owl:sameAs <http://www.wikidata.org/entity/Q27430318> .
+
+<https://bball-intelligence.com/resource/person/5720> owl:sameAs <http://www.wikidata.org/entity/Q22958405> .
+
+<https://bball-intelligence.com/resource/person/57224> owl:sameAs <http://www.wikidata.org/entity/Q18719871> .
+
+<https://bball-intelligence.com/resource/person/57234> owl:sameAs <http://www.wikidata.org/entity/Q20770926> .
+
+<https://bball-intelligence.com/resource/person/57245> owl:sameAs <http://www.wikidata.org/entity/Q135348347> .
+
+<https://bball-intelligence.com/resource/person/57247> owl:sameAs <http://www.wikidata.org/entity/Q29122346> .
+
+<https://bball-intelligence.com/resource/person/57248> owl:sameAs <http://www.wikidata.org/entity/Q19839139> .
+
+<https://bball-intelligence.com/resource/person/57250> owl:sameAs <http://www.wikidata.org/entity/Q325734> .
+
+<https://bball-intelligence.com/resource/person/57251> owl:sameAs <http://www.wikidata.org/entity/Q27983026> .
+
+<https://bball-intelligence.com/resource/person/57252> owl:sameAs <http://www.wikidata.org/entity/Q73496772> .
+
+<https://bball-intelligence.com/resource/person/57253> owl:sameAs <http://www.wikidata.org/entity/Q135348356> .
+
+<https://bball-intelligence.com/resource/person/57299> owl:sameAs <http://www.wikidata.org/entity/Q20859543> .
+
+<https://bball-intelligence.com/resource/person/57308> owl:sameAs <http://www.wikidata.org/entity/Q102347172> .
+
+<https://bball-intelligence.com/resource/person/57369> owl:sameAs <http://www.wikidata.org/entity/Q16369168> .
+
+<https://bball-intelligence.com/resource/person/57423> owl:sameAs <http://www.wikidata.org/entity/Q19869190> .
+
+<https://bball-intelligence.com/resource/person/57433> owl:sameAs <http://www.wikidata.org/entity/Q100779909> .
+
+<https://bball-intelligence.com/resource/person/57435> owl:sameAs <http://www.wikidata.org/entity/Q98208963> .
+
+<https://bball-intelligence.com/resource/person/57447> owl:sameAs <http://www.wikidata.org/entity/Q100760337> .
+
+<https://bball-intelligence.com/resource/person/57466> owl:sameAs <http://www.wikidata.org/entity/Q20932045> .
+
+<https://bball-intelligence.com/resource/person/57936> owl:sameAs <http://www.wikidata.org/entity/Q135375399> .
+
+<https://bball-intelligence.com/resource/person/57938> owl:sameAs <http://www.wikidata.org/entity/Q16063761> .
+
+<https://bball-intelligence.com/resource/person/57940> owl:sameAs <http://www.wikidata.org/entity/Q98382977> .
+
+<https://bball-intelligence.com/resource/person/57942> owl:sameAs <http://www.wikidata.org/entity/Q21995277> .
+
+<https://bball-intelligence.com/resource/person/57949> owl:sameAs <http://www.wikidata.org/entity/Q135375435> .
+
+<https://bball-intelligence.com/resource/person/57950> owl:sameAs <http://www.wikidata.org/entity/Q41733030> .
+
+<https://bball-intelligence.com/resource/person/57953> owl:sameAs <http://www.wikidata.org/entity/Q15213818> .
+
+<https://bball-intelligence.com/resource/person/57958> owl:sameAs <http://www.wikidata.org/entity/Q12382499> .
+
+<https://bball-intelligence.com/resource/person/58028> owl:sameAs <http://www.wikidata.org/entity/Q11903656> .
+
+<https://bball-intelligence.com/resource/person/58034> owl:sameAs <http://www.wikidata.org/entity/Q21832725> .
+
+<https://bball-intelligence.com/resource/person/58059> owl:sameAs <http://www.wikidata.org/entity/Q6990947> .
+
+<https://bball-intelligence.com/resource/person/5971> owl:sameAs <http://www.wikidata.org/entity/Q23992255> .
+
+<https://bball-intelligence.com/resource/person/59921> owl:sameAs <http://www.wikidata.org/entity/Q35152684> .
+
+<https://bball-intelligence.com/resource/person/59956> owl:sameAs <http://www.wikidata.org/entity/Q1752604> .
+
+<https://bball-intelligence.com/resource/person/60399> owl:sameAs <http://www.wikidata.org/entity/Q12387928> .
+
+<https://bball-intelligence.com/resource/person/60402> owl:sameAs <http://www.wikidata.org/entity/Q3286570> .
+
+<https://bball-intelligence.com/resource/person/60403> owl:sameAs <http://www.wikidata.org/entity/Q16029578> .
+
+<https://bball-intelligence.com/resource/person/60419> owl:sameAs <http://www.wikidata.org/entity/Q22970772> .
+
+<https://bball-intelligence.com/resource/person/6043> owl:sameAs <http://www.wikidata.org/entity/Q3183826> .
+
+<https://bball-intelligence.com/resource/person/60547> owl:sameAs <http://www.wikidata.org/entity/Q20795536> .
+
+<https://bball-intelligence.com/resource/person/6075> owl:sameAs <http://www.wikidata.org/entity/Q7322663> .
+
+<https://bball-intelligence.com/resource/person/60789> owl:sameAs <http://www.wikidata.org/entity/Q48612506> .
+
+<https://bball-intelligence.com/resource/person/60804> owl:sameAs <http://www.wikidata.org/entity/Q28816063> .
+
+<https://bball-intelligence.com/resource/person/60833> owl:sameAs <http://www.wikidata.org/entity/Q40683853> .
+
+<https://bball-intelligence.com/resource/person/60922> owl:sameAs <http://www.wikidata.org/entity/Q41776938> .
+
+<https://bball-intelligence.com/resource/person/6102> owl:sameAs <http://www.wikidata.org/entity/Q3701666> .
+
+<https://bball-intelligence.com/resource/person/61025> owl:sameAs <http://www.wikidata.org/entity/Q28320363> .
+
+<https://bball-intelligence.com/resource/person/61050> owl:sameAs <http://www.wikidata.org/entity/Q26811011> .
+
+<https://bball-intelligence.com/resource/person/61071> owl:sameAs <http://www.wikidata.org/entity/Q26405446> .
+
+<https://bball-intelligence.com/resource/person/61123> owl:sameAs <http://www.wikidata.org/entity/Q56164179> .
+
+<https://bball-intelligence.com/resource/person/61143> owl:sameAs <http://www.wikidata.org/entity/Q100801418> .
+
+<https://bball-intelligence.com/resource/person/61194> owl:sameAs <http://www.wikidata.org/entity/Q5316190> .
+
+<https://bball-intelligence.com/resource/person/6138> owl:sameAs <http://www.wikidata.org/entity/Q3779634> .
+
+<https://bball-intelligence.com/resource/person/61624> owl:sameAs <http://www.wikidata.org/entity/Q27983025> .
+
+<https://bball-intelligence.com/resource/person/61625> owl:sameAs <http://www.wikidata.org/entity/Q135266567> .
+
+<https://bball-intelligence.com/resource/person/61654> owl:sameAs <http://www.wikidata.org/entity/Q16300681> .
+
+<https://bball-intelligence.com/resource/person/61664> owl:sameAs <http://www.wikidata.org/entity/Q16147095> .
+
+<https://bball-intelligence.com/resource/person/61666> owl:sameAs <http://www.wikidata.org/entity/Q19364779> .
+
+<https://bball-intelligence.com/resource/person/61681> owl:sameAs <http://www.wikidata.org/entity/Q27955251> .
+
+<https://bball-intelligence.com/resource/person/61685> owl:sameAs <http://www.wikidata.org/entity/Q20535805> .
+
+<https://bball-intelligence.com/resource/person/6170> owl:sameAs <http://www.wikidata.org/entity/Q2713067> .
+
+<https://bball-intelligence.com/resource/person/61710> owl:sameAs <http://www.wikidata.org/entity/Q40087094> .
+
+<https://bball-intelligence.com/resource/person/61748> owl:sameAs <http://www.wikidata.org/entity/Q7970572> .
+
+<https://bball-intelligence.com/resource/person/61779> owl:sameAs <http://www.wikidata.org/entity/Q22970771> .
+
+<https://bball-intelligence.com/resource/person/61915> owl:sameAs <http://www.wikidata.org/entity/Q117261174> .
+
+<https://bball-intelligence.com/resource/person/61941> owl:sameAs <http://www.wikidata.org/entity/Q106645036> .
+
+<https://bball-intelligence.com/resource/person/62090> owl:sameAs <http://www.wikidata.org/entity/Q19364783> .
+
+<https://bball-intelligence.com/resource/person/62191> owl:sameAs <http://www.wikidata.org/entity/Q26757499> .
+
+<https://bball-intelligence.com/resource/person/62192> owl:sameAs <http://www.wikidata.org/entity/Q26837656> .
+
+<https://bball-intelligence.com/resource/person/62262> owl:sameAs <http://www.wikidata.org/entity/Q17916919> .
+
+<https://bball-intelligence.com/resource/person/62272> owl:sameAs <http://www.wikidata.org/entity/Q58006954> .
+
+<https://bball-intelligence.com/resource/person/62277> owl:sameAs <http://www.wikidata.org/entity/Q30901178> .
+
+<https://bball-intelligence.com/resource/person/62281> owl:sameAs <http://www.wikidata.org/entity/Q40757325> .
+
+<https://bball-intelligence.com/resource/person/62327> owl:sameAs <http://www.wikidata.org/entity/Q12390919> .
+
+<https://bball-intelligence.com/resource/person/62334> owl:sameAs <http://www.wikidata.org/entity/Q27949326> .
+
+<https://bball-intelligence.com/resource/person/62372> owl:sameAs <http://www.wikidata.org/entity/Q6986271> .
+
+<https://bball-intelligence.com/resource/person/62373> owl:sameAs <http://www.wikidata.org/entity/Q114787963> .
+
+<https://bball-intelligence.com/resource/person/62392> owl:sameAs <http://www.wikidata.org/entity/Q2605639> .
+
+<https://bball-intelligence.com/resource/person/62394> owl:sameAs <http://www.wikidata.org/entity/Q70876936> .
+
+<https://bball-intelligence.com/resource/person/62398> owl:sameAs <http://www.wikidata.org/entity/Q27916785> .
+
+<https://bball-intelligence.com/resource/person/62444> owl:sameAs <http://www.wikidata.org/entity/Q19663616> .
+
+<https://bball-intelligence.com/resource/person/6252> owl:sameAs <http://www.wikidata.org/entity/Q100981692> .
+
+<https://bball-intelligence.com/resource/person/62559> owl:sameAs <http://www.wikidata.org/entity/Q73634001> .
+
+<https://bball-intelligence.com/resource/person/62593> owl:sameAs <http://www.wikidata.org/entity/Q39274446> .
+
+<https://bball-intelligence.com/resource/person/62636> owl:sameAs <http://www.wikidata.org/entity/Q27786433> .
+
+<https://bball-intelligence.com/resource/person/62766> owl:sameAs <http://www.wikidata.org/entity/Q100883981> .
+
+<https://bball-intelligence.com/resource/person/62767> owl:sameAs <http://www.wikidata.org/entity/Q78341960> .
+
+<https://bball-intelligence.com/resource/person/62777> owl:sameAs <http://www.wikidata.org/entity/Q65055489> .
+
+<https://bball-intelligence.com/resource/person/62789> owl:sameAs <http://www.wikidata.org/entity/Q24560676> .
+
+<https://bball-intelligence.com/resource/person/62872> owl:sameAs <http://www.wikidata.org/entity/Q27893384> .
+
+<https://bball-intelligence.com/resource/person/62877> owl:sameAs <http://www.wikidata.org/entity/Q98539745> .
+
+<https://bball-intelligence.com/resource/person/62881> owl:sameAs <http://www.wikidata.org/entity/Q70876884> .
+
+<https://bball-intelligence.com/resource/person/62888> owl:sameAs <http://www.wikidata.org/entity/Q18644279> .
+
+<https://bball-intelligence.com/resource/person/62889> owl:sameAs <http://www.wikidata.org/entity/Q120028351> .
+
+<https://bball-intelligence.com/resource/person/62896> owl:sameAs <http://www.wikidata.org/entity/Q61622855> .
+
+<https://bball-intelligence.com/resource/person/62900> owl:sameAs <http://www.wikidata.org/entity/Q19691074> .
+
+<https://bball-intelligence.com/resource/person/62905> owl:sameAs <http://www.wikidata.org/entity/Q30916438> .
+
+<https://bball-intelligence.com/resource/person/62909> owl:sameAs <http://www.wikidata.org/entity/Q20002781> .
+
+<https://bball-intelligence.com/resource/person/62910> owl:sameAs <http://www.wikidata.org/entity/Q20730894> .
+
+<https://bball-intelligence.com/resource/person/63079> owl:sameAs <http://www.wikidata.org/entity/Q42372242> .
+
+<https://bball-intelligence.com/resource/person/63128> owl:sameAs <http://www.wikidata.org/entity/Q17129506> .
+
+<https://bball-intelligence.com/resource/person/63148> owl:sameAs <http://www.wikidata.org/entity/Q52083942> .
+
+<https://bball-intelligence.com/resource/person/63189> owl:sameAs <http://www.wikidata.org/entity/Q29419635> .
+
+<https://bball-intelligence.com/resource/person/63194> owl:sameAs <http://www.wikidata.org/entity/Q47493872> .
+
+<https://bball-intelligence.com/resource/person/63243> owl:sameAs <http://www.wikidata.org/entity/Q22911754> .
+
+<https://bball-intelligence.com/resource/person/63247> owl:sameAs <http://www.wikidata.org/entity/Q110647068> .
+
+<https://bball-intelligence.com/resource/person/63248> owl:sameAs <http://www.wikidata.org/entity/Q33106790> .
+
+<https://bball-intelligence.com/resource/person/63249> owl:sameAs <http://www.wikidata.org/entity/Q131699642> .
+
+<https://bball-intelligence.com/resource/person/63255> owl:sameAs <http://www.wikidata.org/entity/Q100875262> .
+
+<https://bball-intelligence.com/resource/person/63310> owl:sameAs <http://www.wikidata.org/entity/Q41776956> .
+
+<https://bball-intelligence.com/resource/person/63323> owl:sameAs <http://www.wikidata.org/entity/Q23006456> .
+
+<https://bball-intelligence.com/resource/person/63324> owl:sameAs <http://www.wikidata.org/entity/Q18643865> .
+
+<https://bball-intelligence.com/resource/person/63607> owl:sameAs <http://www.wikidata.org/entity/Q28852335> .
+
+<https://bball-intelligence.com/resource/person/63609> owl:sameAs <http://www.wikidata.org/entity/Q55457914> .
+
+<https://bball-intelligence.com/resource/person/63622> owl:sameAs <http://www.wikidata.org/entity/Q52005821> .
+
+<https://bball-intelligence.com/resource/person/63623> owl:sameAs <http://www.wikidata.org/entity/Q27786376> .
+
+<https://bball-intelligence.com/resource/person/63649> owl:sameAs <http://www.wikidata.org/entity/Q100721685> .
+
+<https://bball-intelligence.com/resource/person/63758> owl:sameAs <http://www.wikidata.org/entity/Q5112383> .
+
+<https://bball-intelligence.com/resource/person/63870> owl:sameAs <http://www.wikidata.org/entity/Q35015244> .
+
+<https://bball-intelligence.com/resource/person/63871> owl:sameAs <http://www.wikidata.org/entity/Q56630713> .
+
+<https://bball-intelligence.com/resource/person/63888> owl:sameAs <http://www.wikidata.org/entity/Q100891181> .
+
+<https://bball-intelligence.com/resource/person/63988> owl:sameAs <http://www.wikidata.org/entity/Q21004890> .
+
+<https://bball-intelligence.com/resource/person/64000> owl:sameAs <http://www.wikidata.org/entity/Q27786425> .
+
+<https://bball-intelligence.com/resource/person/64032> owl:sameAs <http://www.wikidata.org/entity/Q27244973> .
+
+<https://bball-intelligence.com/resource/person/64064> owl:sameAs <http://www.wikidata.org/entity/Q65060824> .
+
+<https://bball-intelligence.com/resource/person/64086> owl:sameAs <http://www.wikidata.org/entity/Q20745048> .
+
+<https://bball-intelligence.com/resource/person/64141> owl:sameAs <http://www.wikidata.org/entity/Q52155812> .
+
+<https://bball-intelligence.com/resource/person/64231> owl:sameAs <http://www.wikidata.org/entity/Q18338285> .
+
+<https://bball-intelligence.com/resource/person/64264> owl:sameAs <http://www.wikidata.org/entity/Q28974136> .
+
+<https://bball-intelligence.com/resource/person/64314> owl:sameAs <http://www.wikidata.org/entity/Q23893120> .
+
+<https://bball-intelligence.com/resource/person/64319> owl:sameAs <http://www.wikidata.org/entity/Q21006593> .
+
+<https://bball-intelligence.com/resource/person/64320> owl:sameAs <http://www.wikidata.org/entity/Q23893121> .
+
+<https://bball-intelligence.com/resource/person/64464> owl:sameAs <http://www.wikidata.org/entity/Q21063179> .
+
+<https://bball-intelligence.com/resource/person/64503> owl:sameAs <http://www.wikidata.org/entity/Q113400106> .
+
+<https://bball-intelligence.com/resource/person/64526> owl:sameAs <http://www.wikidata.org/entity/Q21207155> .
+
+<https://bball-intelligence.com/resource/person/64532> owl:sameAs <http://www.wikidata.org/entity/Q41776949> .
+
+<https://bball-intelligence.com/resource/person/64546> owl:sameAs <http://www.wikidata.org/entity/Q944705> .
+
+<https://bball-intelligence.com/resource/person/64556> owl:sameAs <http://www.wikidata.org/entity/Q109424521> .
+
+<https://bball-intelligence.com/resource/person/64563> owl:sameAs <http://www.wikidata.org/entity/Q58338900> .
+
+<https://bball-intelligence.com/resource/person/64564> owl:sameAs <http://www.wikidata.org/entity/Q28028553> .
+
+<https://bball-intelligence.com/resource/person/64568> owl:sameAs <http://www.wikidata.org/entity/Q56524636> .
+
+<https://bball-intelligence.com/resource/person/64822> owl:sameAs <http://www.wikidata.org/entity/Q135244693> .
+
+<https://bball-intelligence.com/resource/person/64920> owl:sameAs <http://www.wikidata.org/entity/Q100791452> .
+
+<https://bball-intelligence.com/resource/person/64957> owl:sameAs <http://www.wikidata.org/entity/Q20994425> .
+
+<https://bball-intelligence.com/resource/person/64960> owl:sameAs <http://www.wikidata.org/entity/Q91783798> .
+
+<https://bball-intelligence.com/resource/person/65148> owl:sameAs <http://www.wikidata.org/entity/Q1407902> .
+
+<https://bball-intelligence.com/resource/person/65177> owl:sameAs <http://www.wikidata.org/entity/Q100890585> .
+
+<https://bball-intelligence.com/resource/person/65196> owl:sameAs <http://www.wikidata.org/entity/Q55993483> .
+
+<https://bball-intelligence.com/resource/person/65293> owl:sameAs <http://www.wikidata.org/entity/Q100890933> .
+
+<https://bball-intelligence.com/resource/person/65306> owl:sameAs <http://www.wikidata.org/entity/Q64821678> .
+
+<https://bball-intelligence.com/resource/person/65308> owl:sameAs <http://www.wikidata.org/entity/Q50772514> .
+
+<https://bball-intelligence.com/resource/person/65333> owl:sameAs <http://www.wikidata.org/entity/Q26046183> .
+
+<https://bball-intelligence.com/resource/person/65431> owl:sameAs <http://www.wikidata.org/entity/Q38794918> .
+
+<https://bball-intelligence.com/resource/person/65436> owl:sameAs <http://www.wikidata.org/entity/Q30278303> .
+
+<https://bball-intelligence.com/resource/person/65446> owl:sameAs <http://www.wikidata.org/entity/Q27430269> .
+
+<https://bball-intelligence.com/resource/person/65454> owl:sameAs <http://www.wikidata.org/entity/Q66195076> .
+
+<https://bball-intelligence.com/resource/person/65460> owl:sameAs <http://www.wikidata.org/entity/Q46143022> .
+
+<https://bball-intelligence.com/resource/person/65470> owl:sameAs <http://www.wikidata.org/entity/Q41885114> .
+
+<https://bball-intelligence.com/resource/person/65500> owl:sameAs <http://www.wikidata.org/entity/Q100753561> .
+
+<https://bball-intelligence.com/resource/person/65513> owl:sameAs <http://www.wikidata.org/entity/Q52419402> .
+
+<https://bball-intelligence.com/resource/person/65515> owl:sameAs <http://www.wikidata.org/entity/Q122335115> .
+
+<https://bball-intelligence.com/resource/person/65540> owl:sameAs <http://www.wikidata.org/entity/Q37869443> .
+
+<https://bball-intelligence.com/resource/person/65548> owl:sameAs <http://www.wikidata.org/entity/Q27536336> .
+
+<https://bball-intelligence.com/resource/person/65552> owl:sameAs <http://www.wikidata.org/entity/Q28852336> .
+
+<https://bball-intelligence.com/resource/person/65553> owl:sameAs <http://www.wikidata.org/entity/Q51048431> .
+
+<https://bball-intelligence.com/resource/person/65554> owl:sameAs <http://www.wikidata.org/entity/Q6138807> .
+
+<https://bball-intelligence.com/resource/person/65555> owl:sameAs <http://www.wikidata.org/entity/Q28852334> .
+
+<https://bball-intelligence.com/resource/person/65556> owl:sameAs <http://www.wikidata.org/entity/Q27869823> .
+
+<https://bball-intelligence.com/resource/person/65557> owl:sameAs <http://www.wikidata.org/entity/Q29419644> .
+
+<https://bball-intelligence.com/resource/person/65585> owl:sameAs <http://www.wikidata.org/entity/Q21984962> .
+
+<https://bball-intelligence.com/resource/person/65685> owl:sameAs <http://www.wikidata.org/entity/Q20020274> .
+
+<https://bball-intelligence.com/resource/person/65699> owl:sameAs <http://www.wikidata.org/entity/Q73621883> .
+
+<https://bball-intelligence.com/resource/person/65743> owl:sameAs <http://www.wikidata.org/entity/Q61110554> .
+
+<https://bball-intelligence.com/resource/person/65745> owl:sameAs <http://www.wikidata.org/entity/Q29869731> .
+
+<https://bball-intelligence.com/resource/person/65831> owl:sameAs <http://www.wikidata.org/entity/Q51763842> .
+
+<https://bball-intelligence.com/resource/person/65842> owl:sameAs <http://www.wikidata.org/entity/Q73634455> .
+
+<https://bball-intelligence.com/resource/person/65928> owl:sameAs <http://www.wikidata.org/entity/Q109780879> .
+
+<https://bball-intelligence.com/resource/person/66133> owl:sameAs <http://www.wikidata.org/entity/Q61953486> .
+
+<https://bball-intelligence.com/resource/person/66342> owl:sameAs <http://www.wikidata.org/entity/Q21036056> .
+
+<https://bball-intelligence.com/resource/person/66474> owl:sameAs <http://www.wikidata.org/entity/Q33083441> .
+
+<https://bball-intelligence.com/resource/person/66478> owl:sameAs <http://www.wikidata.org/entity/Q96621162> .
+
+<https://bball-intelligence.com/resource/person/66480> owl:sameAs <http://www.wikidata.org/entity/Q70877087> .
+
+<https://bball-intelligence.com/resource/person/66481> owl:sameAs <http://www.wikidata.org/entity/Q3312975> .
+
+<https://bball-intelligence.com/resource/person/66482> owl:sameAs <http://www.wikidata.org/entity/Q113271158> .
+
+<https://bball-intelligence.com/resource/person/66483> owl:sameAs <http://www.wikidata.org/entity/Q20534876> .
+
+<https://bball-intelligence.com/resource/person/66499> owl:sameAs <http://www.wikidata.org/entity/Q27786434> .
+
+<https://bball-intelligence.com/resource/person/66501> owl:sameAs <http://www.wikidata.org/entity/Q135267095> .
+
+<https://bball-intelligence.com/resource/person/66516> owl:sameAs <http://www.wikidata.org/entity/Q16194911> .
+
+<https://bball-intelligence.com/resource/person/66519> owl:sameAs <http://www.wikidata.org/entity/Q64768195> .
+
+<https://bball-intelligence.com/resource/person/66571> owl:sameAs <http://www.wikidata.org/entity/Q97687419> .
+
+<https://bball-intelligence.com/resource/person/66577> owl:sameAs <http://www.wikidata.org/entity/Q31281060> .
+
+<https://bball-intelligence.com/resource/person/66579> owl:sameAs <http://www.wikidata.org/entity/Q22096594> .
+
+<https://bball-intelligence.com/resource/person/66583> owl:sameAs <http://www.wikidata.org/entity/Q26963290> .
+
+<https://bball-intelligence.com/resource/person/66585> owl:sameAs <http://www.wikidata.org/entity/Q59712181> .
+
+<https://bball-intelligence.com/resource/person/66855> owl:sameAs <http://www.wikidata.org/entity/Q56294375> .
+
+<https://bball-intelligence.com/resource/person/66862> owl:sameAs <http://www.wikidata.org/entity/Q52133699> .
+
+<https://bball-intelligence.com/resource/person/66896> owl:sameAs <http://www.wikidata.org/entity/Q20995318> .
+
+<https://bball-intelligence.com/resource/person/66971> owl:sameAs <http://www.wikidata.org/entity/Q96245248> .
+
+<https://bball-intelligence.com/resource/person/67077> owl:sameAs <http://www.wikidata.org/entity/Q110457791> .
+
+<https://bball-intelligence.com/resource/person/67228> owl:sameAs <http://www.wikidata.org/entity/Q2563590> .
+
+<https://bball-intelligence.com/resource/person/6739> owl:sameAs <http://www.wikidata.org/entity/Q5957384> .
+
+<https://bball-intelligence.com/resource/person/67451> owl:sameAs <http://www.wikidata.org/entity/Q26757468> .
+
+<https://bball-intelligence.com/resource/person/67516> owl:sameAs <http://www.wikidata.org/entity/Q17463218> .
+
+<https://bball-intelligence.com/resource/person/67523> owl:sameAs <http://www.wikidata.org/entity/Q100907369> .
+
+<https://bball-intelligence.com/resource/person/67537> owl:sameAs <http://www.wikidata.org/entity/Q98280707> .
+
+<https://bball-intelligence.com/resource/person/67632> owl:sameAs <http://www.wikidata.org/entity/Q42685634> .
+
+<https://bball-intelligence.com/resource/person/67649> owl:sameAs <http://www.wikidata.org/entity/Q58110939> .
+
+<https://bball-intelligence.com/resource/person/67720> owl:sameAs <http://www.wikidata.org/entity/Q52431086> .
+
+<https://bball-intelligence.com/resource/person/67733> owl:sameAs <http://www.wikidata.org/entity/Q24084305> .
+
+<https://bball-intelligence.com/resource/person/67742> owl:sameAs <http://www.wikidata.org/entity/Q50740319> .
+
+<https://bball-intelligence.com/resource/person/67749> owl:sameAs <http://www.wikidata.org/entity/Q107585762> .
+
+<https://bball-intelligence.com/resource/person/67763> owl:sameAs <http://www.wikidata.org/entity/Q295416> .
+
+<https://bball-intelligence.com/resource/person/67764> owl:sameAs <http://www.wikidata.org/entity/Q55692555> .
+
+<https://bball-intelligence.com/resource/person/67765> owl:sameAs <http://www.wikidata.org/entity/Q135266558> .
+
+<https://bball-intelligence.com/resource/person/67768> owl:sameAs <http://www.wikidata.org/entity/Q40329325> .
+
+<https://bball-intelligence.com/resource/person/67905> owl:sameAs <http://www.wikidata.org/entity/Q29051955> .
+
+<https://bball-intelligence.com/resource/person/6796> owl:sameAs <http://www.wikidata.org/entity/Q39274382> .
+
+<https://bball-intelligence.com/resource/person/68012> owl:sameAs <http://www.wikidata.org/entity/Q76760553> .
+
+<https://bball-intelligence.com/resource/person/68115> owl:sameAs <http://www.wikidata.org/entity/Q20873623> .
+
+<https://bball-intelligence.com/resource/person/68145> owl:sameAs <http://www.wikidata.org/entity/Q29622610> .
+
+<https://bball-intelligence.com/resource/person/68155> owl:sameAs <http://www.wikidata.org/entity/Q47501126> .
+
+<https://bball-intelligence.com/resource/person/6823> owl:sameAs <http://www.wikidata.org/entity/Q4006462> .
+
+<https://bball-intelligence.com/resource/person/68335> owl:sameAs <http://www.wikidata.org/entity/Q3616403> .
+
+<https://bball-intelligence.com/resource/person/68358> owl:sameAs <http://www.wikidata.org/entity/Q109424506> .
+
+<https://bball-intelligence.com/resource/person/68368> owl:sameAs <http://www.wikidata.org/entity/Q130220273> .
+
+<https://bball-intelligence.com/resource/person/68418> owl:sameAs <http://www.wikidata.org/entity/Q52005174> .
+
+<https://bball-intelligence.com/resource/person/68608> owl:sameAs <http://www.wikidata.org/entity/Q198027> .
+
+<https://bball-intelligence.com/resource/person/68609> owl:sameAs <http://www.wikidata.org/entity/Q85772238> .
+
+<https://bball-intelligence.com/resource/person/68610> owl:sameAs <http://www.wikidata.org/entity/Q21206534> .
+
+<https://bball-intelligence.com/resource/person/68673> owl:sameAs <http://www.wikidata.org/entity/Q7002380> .
+
+<https://bball-intelligence.com/resource/person/68678> owl:sameAs <http://www.wikidata.org/entity/Q28874487> .
+
+<https://bball-intelligence.com/resource/person/68710> owl:sameAs <http://www.wikidata.org/entity/Q28967504> .
+
+<https://bball-intelligence.com/resource/person/68896> owl:sameAs <http://www.wikidata.org/entity/Q28967540> .
+
+<https://bball-intelligence.com/resource/person/68898> owl:sameAs <http://www.wikidata.org/entity/Q100723564> .
+
+<https://bball-intelligence.com/resource/person/68934> owl:sameAs <http://www.wikidata.org/entity/Q23047553> .
+
+<https://bball-intelligence.com/resource/person/69014> owl:sameAs <http://www.wikidata.org/entity/Q31870986> .
+
+<https://bball-intelligence.com/resource/person/69069> owl:sameAs <http://www.wikidata.org/entity/Q3186500> .
+
+<https://bball-intelligence.com/resource/person/69070> owl:sameAs <http://www.wikidata.org/entity/Q27184528> .
+
+<https://bball-intelligence.com/resource/person/69122> owl:sameAs <http://www.wikidata.org/entity/Q50933695> .
+
+<https://bball-intelligence.com/resource/person/69130> owl:sameAs <http://www.wikidata.org/entity/Q23303284> .
+
+<https://bball-intelligence.com/resource/person/69200> owl:sameAs <http://www.wikidata.org/entity/Q25711400> .
+
+<https://bball-intelligence.com/resource/person/69211> owl:sameAs <http://www.wikidata.org/entity/Q100795008> .
+
+<https://bball-intelligence.com/resource/person/69427> owl:sameAs <http://www.wikidata.org/entity/Q59783664> .
+
+<https://bball-intelligence.com/resource/person/69430> owl:sameAs <http://www.wikidata.org/entity/Q56451235> .
+
+<https://bball-intelligence.com/resource/person/69674> owl:sameAs <http://www.wikidata.org/entity/Q107027966> .
+
+<https://bball-intelligence.com/resource/person/69815> owl:sameAs <http://www.wikidata.org/entity/Q40750031> .
+
+<https://bball-intelligence.com/resource/person/69823> owl:sameAs <http://www.wikidata.org/entity/Q27786580> .
+
+<https://bball-intelligence.com/resource/person/69864> owl:sameAs <http://www.wikidata.org/entity/Q58900412> .
+
+<https://bball-intelligence.com/resource/person/69940> owl:sameAs <http://www.wikidata.org/entity/Q123367523> .
+
+<https://bball-intelligence.com/resource/person/69941> owl:sameAs <http://www.wikidata.org/entity/Q102347126> .
+
+<https://bball-intelligence.com/resource/person/69942> owl:sameAs <http://www.wikidata.org/entity/Q42685533> .
+
+<https://bball-intelligence.com/resource/person/69943> owl:sameAs <http://www.wikidata.org/entity/Q82788770> .
+
+<https://bball-intelligence.com/resource/person/69944> owl:sameAs <http://www.wikidata.org/entity/Q520357> .
+
+<https://bball-intelligence.com/resource/person/69945> owl:sameAs <http://www.wikidata.org/entity/Q104382456> .
+
+<https://bball-intelligence.com/resource/person/69948> owl:sameAs <http://www.wikidata.org/entity/Q27574431> .
+
+<https://bball-intelligence.com/resource/person/69949> owl:sameAs <http://www.wikidata.org/entity/Q55758780> .
+
+<https://bball-intelligence.com/resource/person/69951> owl:sameAs <http://www.wikidata.org/entity/Q24816433> .
+
+<https://bball-intelligence.com/resource/person/69953> owl:sameAs <http://www.wikidata.org/entity/Q18127274> .
+
+<https://bball-intelligence.com/resource/person/69956> owl:sameAs <http://www.wikidata.org/entity/Q135409201> .
+
+<https://bball-intelligence.com/resource/person/69957> owl:sameAs <http://www.wikidata.org/entity/Q23772128> .
+
+<https://bball-intelligence.com/resource/person/69959> owl:sameAs <http://www.wikidata.org/entity/Q100960200> .
+
+<https://bball-intelligence.com/resource/person/69960> owl:sameAs <http://www.wikidata.org/entity/Q27430323> .
+
+<https://bball-intelligence.com/resource/person/69961> owl:sameAs <http://www.wikidata.org/entity/Q16587735> .
+
+<https://bball-intelligence.com/resource/person/69963> owl:sameAs <http://www.wikidata.org/entity/Q100773777> .
+
+<https://bball-intelligence.com/resource/person/70044> owl:sameAs <http://www.wikidata.org/entity/Q100766876> .
+
+<https://bball-intelligence.com/resource/person/70071> owl:sameAs <http://www.wikidata.org/entity/Q100747945> .
+
+<https://bball-intelligence.com/resource/person/70109> owl:sameAs <http://www.wikidata.org/entity/Q1340550> .
+
+<https://bball-intelligence.com/resource/person/70110> owl:sameAs <http://www.wikidata.org/entity/Q44974283> .
+
+<https://bball-intelligence.com/resource/person/70550> owl:sameAs <http://www.wikidata.org/entity/Q52418762> .
+
+<https://bball-intelligence.com/resource/person/7063> owl:sameAs <http://www.wikidata.org/entity/Q380035> .
+
+<https://bball-intelligence.com/resource/person/70694> owl:sameAs <http://www.wikidata.org/entity/Q27924840> .
+
+<https://bball-intelligence.com/resource/person/70708> owl:sameAs <http://www.wikidata.org/entity/Q50728314> .
+
+<https://bball-intelligence.com/resource/person/70716> owl:sameAs <http://www.wikidata.org/entity/Q58338901> .
+
+<https://bball-intelligence.com/resource/person/70717> owl:sameAs <http://www.wikidata.org/entity/Q6123748> .
+
+<https://bball-intelligence.com/resource/person/70718> owl:sameAs <http://www.wikidata.org/entity/Q56164181> .
+
+<https://bball-intelligence.com/resource/person/70720> owl:sameAs <http://www.wikidata.org/entity/Q58486979> .
+
+<https://bball-intelligence.com/resource/person/70722> owl:sameAs <http://www.wikidata.org/entity/Q64667993> .
+
+<https://bball-intelligence.com/resource/person/70723> owl:sameAs <http://www.wikidata.org/entity/Q84044377> .
+
+<https://bball-intelligence.com/resource/person/70724> owl:sameAs <http://www.wikidata.org/entity/Q85870425> .
+
+<https://bball-intelligence.com/resource/person/70725> owl:sameAs <http://www.wikidata.org/entity/Q56825215> .
+
+<https://bball-intelligence.com/resource/person/70763> owl:sameAs <http://www.wikidata.org/entity/Q109418160> .
+
+<https://bball-intelligence.com/resource/person/70772> owl:sameAs <http://www.wikidata.org/entity/Q27058056> .
+
+<https://bball-intelligence.com/resource/person/70782> owl:sameAs <http://www.wikidata.org/entity/Q40065345> .
+
+<https://bball-intelligence.com/resource/person/70783> owl:sameAs <http://www.wikidata.org/entity/Q61854778> .
+
+<https://bball-intelligence.com/resource/person/70813> owl:sameAs <http://www.wikidata.org/entity/Q41160110> .
+
+<https://bball-intelligence.com/resource/person/70868> owl:sameAs <http://www.wikidata.org/entity/Q115094977> .
+
+<https://bball-intelligence.com/resource/person/70890> owl:sameAs <http://www.wikidata.org/entity/Q135366019> .
+
+<https://bball-intelligence.com/resource/person/70893> owl:sameAs <http://www.wikidata.org/entity/Q56319032> .
+
+<https://bball-intelligence.com/resource/person/70920> owl:sameAs <http://www.wikidata.org/entity/Q56164246> .
+
+<https://bball-intelligence.com/resource/person/70924> owl:sameAs <http://www.wikidata.org/entity/Q100794783> .
+
+<https://bball-intelligence.com/resource/person/70983> owl:sameAs <http://www.wikidata.org/entity/Q56660114> .
+
+<https://bball-intelligence.com/resource/person/71024> owl:sameAs <http://www.wikidata.org/entity/Q96623993> .
+
+<https://bball-intelligence.com/resource/person/71049> owl:sameAs <http://www.wikidata.org/entity/Q37005363> .
+
+<https://bball-intelligence.com/resource/person/71053> owl:sameAs <http://www.wikidata.org/entity/Q50359717> .
+
+<https://bball-intelligence.com/resource/person/71056> owl:sameAs <http://www.wikidata.org/entity/Q51062999> .
+
+<https://bball-intelligence.com/resource/person/71153> owl:sameAs <http://www.wikidata.org/entity/Q73634124> .
+
+<https://bball-intelligence.com/resource/person/71156> owl:sameAs <http://www.wikidata.org/entity/Q107586157> .
+
+<https://bball-intelligence.com/resource/person/71457> owl:sameAs <http://www.wikidata.org/entity/Q108791318> .
+
+<https://bball-intelligence.com/resource/person/71537> owl:sameAs <http://www.wikidata.org/entity/Q100964114> .
+
+<https://bball-intelligence.com/resource/person/71550> owl:sameAs <http://www.wikidata.org/entity/Q135369916> .
+
+<https://bball-intelligence.com/resource/person/71564> owl:sameAs <http://www.wikidata.org/entity/Q100940314> .
+
+<https://bball-intelligence.com/resource/person/71653> owl:sameAs <http://www.wikidata.org/entity/Q26240538> .
+
+<https://bball-intelligence.com/resource/person/71680> owl:sameAs <http://www.wikidata.org/entity/Q27244970> .
+
+<https://bball-intelligence.com/resource/person/71727> owl:sameAs <http://www.wikidata.org/entity/Q29635929> .
+
+<https://bball-intelligence.com/resource/person/71837> owl:sameAs <http://www.wikidata.org/entity/Q109780743> .
+
+<https://bball-intelligence.com/resource/person/71920> owl:sameAs <http://www.wikidata.org/entity/Q98105886> .
+
+<https://bball-intelligence.com/resource/person/71980> owl:sameAs <http://www.wikidata.org/entity/Q113553653> .
+
+<https://bball-intelligence.com/resource/person/7214> owl:sameAs <http://www.wikidata.org/entity/Q133641401> .
+
+<https://bball-intelligence.com/resource/person/72146> owl:sameAs <http://www.wikidata.org/entity/Q70877045> .
+
+<https://bball-intelligence.com/resource/person/7215> owl:sameAs <http://www.wikidata.org/entity/Q3822782> .
+
+<https://bball-intelligence.com/resource/person/72213> owl:sameAs <http://www.wikidata.org/entity/Q84707670> .
+
+<https://bball-intelligence.com/resource/person/72272> owl:sameAs <http://www.wikidata.org/entity/Q31271261> .
+
+<https://bball-intelligence.com/resource/person/72283> owl:sameAs <http://www.wikidata.org/entity/Q50359716> .
+
+<https://bball-intelligence.com/resource/person/72326> owl:sameAs <http://www.wikidata.org/entity/Q124050823> .
+
+<https://bball-intelligence.com/resource/person/7235> owl:sameAs <http://www.wikidata.org/entity/Q5906274> .
+
+<https://bball-intelligence.com/resource/person/7237> owl:sameAs <http://www.wikidata.org/entity/Q3934346> .
+
+<https://bball-intelligence.com/resource/person/72404> owl:sameAs <http://www.wikidata.org/entity/Q48973314> .
+
+<https://bball-intelligence.com/resource/person/72483> owl:sameAs <http://www.wikidata.org/entity/Q73634522> .
+
+<https://bball-intelligence.com/resource/person/72492> owl:sameAs <http://www.wikidata.org/entity/Q29520324> .
+
+<https://bball-intelligence.com/resource/person/7251> owl:sameAs <http://www.wikidata.org/entity/Q2362297> .
+
+<https://bball-intelligence.com/resource/person/72648> owl:sameAs <http://www.wikidata.org/entity/Q18385508> .
+
+<https://bball-intelligence.com/resource/person/72737> owl:sameAs <http://www.wikidata.org/entity/Q73634267> .
+
+<https://bball-intelligence.com/resource/person/72761> owl:sameAs <http://www.wikidata.org/entity/Q57304476> .
+
+<https://bball-intelligence.com/resource/person/72778> owl:sameAs <http://www.wikidata.org/entity/Q100761650> .
+
+<https://bball-intelligence.com/resource/person/72805> owl:sameAs <http://www.wikidata.org/entity/Q56025888> .
+
+<https://bball-intelligence.com/resource/person/72829> owl:sameAs <http://www.wikidata.org/entity/Q100930376> .
+
+<https://bball-intelligence.com/resource/person/72926> owl:sameAs <http://www.wikidata.org/entity/Q51048391> .
+
+<https://bball-intelligence.com/resource/person/72955> owl:sameAs <http://www.wikidata.org/entity/Q100924014> .
+
+<https://bball-intelligence.com/resource/person/72982> owl:sameAs <http://www.wikidata.org/entity/Q97014586> .
+
+<https://bball-intelligence.com/resource/person/72983> owl:sameAs <http://www.wikidata.org/entity/Q51557493> .
+
+<https://bball-intelligence.com/resource/person/72986> owl:sameAs <http://www.wikidata.org/entity/Q58290105> .
+
+<https://bball-intelligence.com/resource/person/72997> owl:sameAs <http://www.wikidata.org/entity/Q55625183> .
+
+<https://bball-intelligence.com/resource/person/73005> owl:sameAs <http://www.wikidata.org/entity/Q32945227> .
+
+<https://bball-intelligence.com/resource/person/73043> owl:sameAs <http://www.wikidata.org/entity/Q50674711> .
+
+<https://bball-intelligence.com/resource/person/73197> owl:sameAs <http://www.wikidata.org/entity/Q66810546> .
+
+<https://bball-intelligence.com/resource/person/73565> owl:sameAs <http://www.wikidata.org/entity/Q25190277> .
+
+<https://bball-intelligence.com/resource/person/73566> owl:sameAs <http://www.wikidata.org/entity/Q27786535> .
+
+<https://bball-intelligence.com/resource/person/73567> owl:sameAs <http://www.wikidata.org/entity/Q109424527> .
+
+<https://bball-intelligence.com/resource/person/73572> owl:sameAs <http://www.wikidata.org/entity/Q52637291> .
+
+<https://bball-intelligence.com/resource/person/73576> owl:sameAs <http://www.wikidata.org/entity/Q133591476> .
+
+<https://bball-intelligence.com/resource/person/73577> owl:sameAs <http://www.wikidata.org/entity/Q27983044> .
+
+<https://bball-intelligence.com/resource/person/73578> owl:sameAs <http://www.wikidata.org/entity/Q55758822> .
+
+<https://bball-intelligence.com/resource/person/73579> owl:sameAs <http://www.wikidata.org/entity/Q62087405> .
+
+<https://bball-intelligence.com/resource/person/73581> owl:sameAs <http://www.wikidata.org/entity/Q133755590> .
+
+<https://bball-intelligence.com/resource/person/73583> owl:sameAs <http://www.wikidata.org/entity/Q56640710> .
+
+<https://bball-intelligence.com/resource/person/73585> owl:sameAs <http://www.wikidata.org/entity/Q100798444> .
+
+<https://bball-intelligence.com/resource/person/73586> owl:sameAs <http://www.wikidata.org/entity/Q100871762> .
+
+<https://bball-intelligence.com/resource/person/73587> owl:sameAs <http://www.wikidata.org/entity/Q27786533> .
+
+<https://bball-intelligence.com/resource/person/73588> owl:sameAs <http://www.wikidata.org/entity/Q100804095> .
+
+<https://bball-intelligence.com/resource/person/73590> owl:sameAs <http://www.wikidata.org/entity/Q115590629> .
+
+<https://bball-intelligence.com/resource/person/73591> owl:sameAs <http://www.wikidata.org/entity/Q42394926> .
+
+<https://bball-intelligence.com/resource/person/73592> owl:sameAs <http://www.wikidata.org/entity/Q16233820> .
+
+<https://bball-intelligence.com/resource/person/73593> owl:sameAs <http://www.wikidata.org/entity/Q27058064> .
+
+<https://bball-intelligence.com/resource/person/73594> owl:sameAs <http://www.wikidata.org/entity/Q27786431> .
+
+<https://bball-intelligence.com/resource/person/73596> owl:sameAs <http://www.wikidata.org/entity/Q107585972> .
+
+<https://bball-intelligence.com/resource/person/73599> owl:sameAs <http://www.wikidata.org/entity/Q55837326> .
+
+<https://bball-intelligence.com/resource/person/73601> owl:sameAs <http://www.wikidata.org/entity/Q73634243> .
+
+<https://bball-intelligence.com/resource/person/73609> owl:sameAs <http://www.wikidata.org/entity/Q93635667> .
+
+<https://bball-intelligence.com/resource/person/73618> owl:sameAs <http://www.wikidata.org/entity/Q56025849> .
+
+<https://bball-intelligence.com/resource/person/73638> owl:sameAs <http://www.wikidata.org/entity/Q30905346> .
+
+<https://bball-intelligence.com/resource/person/73640> owl:sameAs <http://www.wikidata.org/entity/Q22942647> .
+
+<https://bball-intelligence.com/resource/person/73643> owl:sameAs <http://www.wikidata.org/entity/Q139093845> .
+
+<https://bball-intelligence.com/resource/person/73655> owl:sameAs <http://www.wikidata.org/entity/Q109318416> .
+
+<https://bball-intelligence.com/resource/person/73661> owl:sameAs <http://www.wikidata.org/entity/Q113782955> .
+
+<https://bball-intelligence.com/resource/person/73666> owl:sameAs <http://www.wikidata.org/entity/Q19721956> .
+
+<https://bball-intelligence.com/resource/person/73704> owl:sameAs <http://www.wikidata.org/entity/Q42366041> .
+
+<https://bball-intelligence.com/resource/person/73921> owl:sameAs <http://www.wikidata.org/entity/Q48270422> .
+
+<https://bball-intelligence.com/resource/person/73954> owl:sameAs <http://www.wikidata.org/entity/Q85865712> .
+
+<https://bball-intelligence.com/resource/person/74037> owl:sameAs <http://www.wikidata.org/entity/Q56044652> .
+
+<https://bball-intelligence.com/resource/person/74127> owl:sameAs <http://www.wikidata.org/entity/Q39082205> .
+
+<https://bball-intelligence.com/resource/person/74151> owl:sameAs <http://www.wikidata.org/entity/Q16203431> .
+
+<https://bball-intelligence.com/resource/person/74187> owl:sameAs <http://www.wikidata.org/entity/Q62605275> .
+
+<https://bball-intelligence.com/resource/person/7420> owl:sameAs <http://www.wikidata.org/entity/Q128433> .
+
+<https://bball-intelligence.com/resource/person/74294> owl:sameAs <http://www.wikidata.org/entity/Q100892340> .
+
+<https://bball-intelligence.com/resource/person/74334> owl:sameAs <http://www.wikidata.org/entity/Q53911712> .
+
+<https://bball-intelligence.com/resource/person/74362> owl:sameAs <http://www.wikidata.org/entity/Q12059286> .
+
+<https://bball-intelligence.com/resource/person/74560> owl:sameAs <http://www.wikidata.org/entity/Q26785985> .
+
+<https://bball-intelligence.com/resource/person/74627> owl:sameAs <http://www.wikidata.org/entity/Q73621697> .
+
+<https://bball-intelligence.com/resource/person/74908> owl:sameAs <http://www.wikidata.org/entity/Q135244647> .
+
+<https://bball-intelligence.com/resource/person/74950> owl:sameAs <http://www.wikidata.org/entity/Q106817897> .
+
+<https://bball-intelligence.com/resource/person/74957> owl:sameAs <http://www.wikidata.org/entity/Q124375680> .
+
+<https://bball-intelligence.com/resource/person/74982> owl:sameAs <http://www.wikidata.org/entity/Q107586295> .
+
+<https://bball-intelligence.com/resource/person/75022> owl:sameAs <http://www.wikidata.org/entity/Q96983363> .
+
+<https://bball-intelligence.com/resource/person/75025> owl:sameAs <http://www.wikidata.org/entity/Q96625175> .
+
+<https://bball-intelligence.com/resource/person/75028> owl:sameAs <http://www.wikidata.org/entity/Q121199398> .
+
+<https://bball-intelligence.com/resource/person/75030> owl:sameAs <http://www.wikidata.org/entity/Q71295896> .
+
+<https://bball-intelligence.com/resource/person/75031> owl:sameAs <http://www.wikidata.org/entity/Q109311548> .
+
+<https://bball-intelligence.com/resource/person/75033> owl:sameAs <http://www.wikidata.org/entity/Q62601360> .
+
+<https://bball-intelligence.com/resource/person/75034> owl:sameAs <http://www.wikidata.org/entity/Q109844120> .
+
+<https://bball-intelligence.com/resource/person/75435> owl:sameAs <http://www.wikidata.org/entity/Q30078268> .
+
+<https://bball-intelligence.com/resource/person/75446> owl:sameAs <http://www.wikidata.org/entity/Q35454572> .
+
+<https://bball-intelligence.com/resource/person/75447> owl:sameAs <http://www.wikidata.org/entity/Q40225669> .
+
+<https://bball-intelligence.com/resource/person/75479> owl:sameAs <http://www.wikidata.org/entity/Q57584359> .
+
+<https://bball-intelligence.com/resource/person/75546> owl:sameAs <http://www.wikidata.org/entity/Q96743250> .
+
+<https://bball-intelligence.com/resource/person/75566> owl:sameAs <http://www.wikidata.org/entity/Q36293231> .
+
+<https://bball-intelligence.com/resource/person/75577> owl:sameAs <http://www.wikidata.org/entity/Q125190344> .
+
+<https://bball-intelligence.com/resource/person/75624> owl:sameAs <http://www.wikidata.org/entity/Q42405726> .
+
+<https://bball-intelligence.com/resource/person/75643> owl:sameAs <http://www.wikidata.org/entity/Q58486977> .
+
+<https://bball-intelligence.com/resource/person/75711> owl:sameAs <http://www.wikidata.org/entity/Q107822403> .
+
+<https://bball-intelligence.com/resource/person/75712> owl:sameAs <http://www.wikidata.org/entity/Q45765072> .
+
+<https://bball-intelligence.com/resource/person/75829> owl:sameAs <http://www.wikidata.org/entity/Q6848093> .
+
+<https://bball-intelligence.com/resource/person/75872> owl:sameAs <http://www.wikidata.org/entity/Q98665898> .
+
+<https://bball-intelligence.com/resource/person/75873> owl:sameAs <http://www.wikidata.org/entity/Q113457184> .
+
+<https://bball-intelligence.com/resource/person/75887> owl:sameAs <http://www.wikidata.org/entity/Q111423488> .
+
+<https://bball-intelligence.com/resource/person/75898> owl:sameAs <http://www.wikidata.org/entity/Q56321898> .
+
+<https://bball-intelligence.com/resource/person/75909> owl:sameAs <http://www.wikidata.org/entity/Q58486970> .
+
+<https://bball-intelligence.com/resource/person/75928> owl:sameAs <http://www.wikidata.org/entity/Q28873328> .
+
+<https://bball-intelligence.com/resource/person/75964> owl:sameAs <http://www.wikidata.org/entity/Q100719182> .
+
+<https://bball-intelligence.com/resource/person/75974> owl:sameAs <http://www.wikidata.org/entity/Q100809006> .
+
+<https://bball-intelligence.com/resource/person/75992> owl:sameAs <http://www.wikidata.org/entity/Q73634134> .
+
+<https://bball-intelligence.com/resource/person/76066> owl:sameAs <http://www.wikidata.org/entity/Q65030856> .
+
+<https://bball-intelligence.com/resource/person/76111> owl:sameAs <http://www.wikidata.org/entity/Q99688589> .
+
+<https://bball-intelligence.com/resource/person/76156> owl:sameAs <http://www.wikidata.org/entity/Q53560898> .
+
+<https://bball-intelligence.com/resource/person/76291> owl:sameAs <http://www.wikidata.org/entity/Q29525009> .
+
+<https://bball-intelligence.com/resource/person/76349> owl:sameAs <http://www.wikidata.org/entity/Q109424749> .
+
+<https://bball-intelligence.com/resource/person/7683> owl:sameAs <http://www.wikidata.org/entity/Q3712347> .
+
+<https://bball-intelligence.com/resource/person/7840> owl:sameAs <http://www.wikidata.org/entity/Q11855406> .
+
+<https://bball-intelligence.com/resource/person/7942> owl:sameAs <http://www.wikidata.org/entity/Q3806333> .
+
+<https://bball-intelligence.com/resource/person/8105> owl:sameAs <http://www.wikidata.org/entity/Q21621359> .
+

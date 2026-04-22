@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block contenido %}
+<div class="row">
+    <div class="col-12">
+        <div class="card p-4 mb-4">
+            <h2 class="h4 mb-3">Buscar Jugador</h2>
+            <form action="/jugadores" method="get" class="row g-2">
+                <div class="col-md-10">
+                    <input type="text" name="nombre" class="form-control form-control-lg" placeholder="Nombre del jugador..." value="{{ busqueda }}">
+                </div>
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-primary w-100 btn-lg">Buscar</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="card p-0 overflow-hidden">
+            <table class="table table-hover mb-0">
+                <thead class="bg-light">
+                    <tr>
+                        <th class="ps-4 py-3">Nombre</th>
+                        <th>ID Local</th>
+                        <th>Wikidata</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for j in jugadores %}
+                    <tr>
+                        <td class="ps-4 py-3">
+                            <a href="/jugador/{{ j.id }}" class="text-decoration-none fw-bold text-dark">{{ j.nombre }}</a>
+                        </td>
+                        <td><span class="badge bg-light text-muted">{{ j.id }}</span></td>
+                        <td>
+                            {% if j.wikidata %}
+                            <a href="{{ j.wikidata }}" target="_blank" class="badge bg-info text-decoration-none">Ver Wiki</a>
+                            {% else %}
+                            <span class="text-muted small">Sin enlace</span>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

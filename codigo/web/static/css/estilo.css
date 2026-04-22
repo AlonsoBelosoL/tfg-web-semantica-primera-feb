@@ -1,0 +1,110 @@
+:root {
+    --fondo-oscuro: #0a0a0a;
+    --tarjeta-oscuro: #161616;
+    --borde-oscuro: #262626;
+    --texto-principal: #ffffff;
+    --texto-secundario: #a0a0a0;
+    --azul-electrico: #0070f3;
+    --exito: #00ff88;
+}
+
+body { 
+    font-family: 'Plus Jakarta Sans', sans-serif; 
+    background-color: var(--fondo-oscuro); 
+    color: var(--texto-principal); 
+    margin: 0;
+}
+
+/* Navegacion */
+.navbar { 
+    background-color: rgba(10, 10, 10, 0.8) !important; 
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--borde-oscuro);
+}
+
+.navbar-brand { 
+    font-weight: 800; 
+    color: var(--azul-electrico) !important; 
+    letter-spacing: -1px; 
+}
+
+.nav-link { color: var(--texto-secundario) !important; }
+.nav-link:hover { color: var(--texto-principal) !important; }
+
+/* Tarjetas y Contenedores */
+.card { 
+    background-color: var(--tarjeta-oscuro); 
+    border: 1px solid var(--borde-oscuro); 
+    border-radius: 16px; 
+}
+
+/* Botones */
+.btn-primary { 
+    background-color: var(--azul-electrico); 
+    border: none; 
+    font-weight: 600;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+/* Estadisticas */
+.stat-card {
+    background: linear-gradient(145deg, #1a1a1a, #121212);
+    padding: 20px;
+    border-radius: 16px;
+    border: 1px solid var(--borde-oscuro);
+    transition: transform 0.3s ease;
+}
+
+.stat-card:hover { 
+    transform: translateY(-5px); 
+    border-color: var(--azul-electrico); 
+}
+
+.stat-value { 
+    font-size: 1.8rem; 
+    font-weight: 800; 
+    color: var(--azul-electrico); 
+    display: block; 
+}
+
+.stat-label { 
+    font-size: 0.7rem; 
+    text-transform: uppercase; 
+    color: var(--texto-secundario); 
+    font-weight: 600; 
+}
+
+/* Tablas */
+.table { color: var(--texto-principal); }
+.table thead th { 
+    border-bottom: 1px solid var(--borde-oscuro); 
+    color: var(--texto-secundario); 
+    font-size: 0.8rem; 
+    background-color: transparent;
+}
+.table td { 
+    border-bottom: 1px solid var(--borde-oscuro); 
+    padding: 15px 10px; 
+    vertical-align: middle; 
+    background-color: transparent;
+}
+
+/* Formularios */
+.form-control {
+    background-color: #121212;
+    border: 1px solid var(--borde-oscuro);
+    color: white;
+}
+
+.form-control:focus {
+    background-color: #1a1a1a;
+    color: white;
+    border-color: var(--azul-electrico);
+    box-shadow: none;
+}
